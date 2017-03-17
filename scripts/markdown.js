@@ -19,7 +19,7 @@ module.exports = class Markdown {
           const emojis = emojiTable[catalog];
           return format(`
 
-            ## ${catalog}
+            ### ${catalog}
 
             ${this.createTable(emojis, columnDivisions)}
 
@@ -47,7 +47,7 @@ module.exports = class Markdown {
         rowEmojis.push('');
       table += format(`
 
-      | [↑](#table-of-contents) |${rowEmojis.map((emoji) => ` :${emoji}: | \`:${emoji}:\` `).join(' | ')}|
+      | [top](#table-of-contents) |${rowEmojis.map((emoji) => ` :${emoji}: | \`:${emoji}:\` `).join(' | ')}|
 
       `) + '\n';
     }
