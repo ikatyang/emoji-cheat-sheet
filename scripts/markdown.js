@@ -47,7 +47,7 @@ module.exports = class Markdown {
         rowEmojis.push('');
       table += format(`
 
-      | [top](#table-of-contents) |${rowEmojis.map((emoji) => ` :${emoji}: | \`:${emoji}:\` `).join(' | ')}|
+      | [top](#table-of-contents) |${rowEmojis.map((emoji) => emoji ? ` ${emoji} | \`${emoji}\` ` : ' | ').join(' | ')}|
 
       `) + '\n';
     }

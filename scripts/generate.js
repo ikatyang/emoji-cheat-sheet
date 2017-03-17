@@ -25,7 +25,7 @@ request.get(url, (error, response, body) => {
       const catalog = $(catalogElement).text();
       $html.find(`#emoji-${catalog.toLowerCase()} li .name`).each((_, emojiElement) => {
         const emoji = $(emojiElement).text();
-        emojis.push(emoji);
+        emojis.push(`:${emoji}:`);
       });
       emojiTable[catalog] = emojis;
     });
