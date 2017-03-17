@@ -1,0 +1,15 @@
+{
+  "name": "emoji-cheat-sheet-generator",
+  "private": true,
+  "author": "ikatyang",
+  "license": "MIT",
+  "homepage": "https://github.com/ikatyang/emoji-cheat-sheet",
+  "repository": "https://github.com/ikatyang/emoji-cheat-sheet/tree/master",
+  "scripts": {
+    "generate": "node ./scripts/generate.js"
+  },
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "request": "2.81.0"
+  }
+}
