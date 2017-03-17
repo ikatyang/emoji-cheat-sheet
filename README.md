@@ -173,7 +173,7 @@ This cheat sheet is auto-generated from <http://www.emoji-cheat-sheet.com> using
 | [top](#table-of-contents) | :earth_americas: | `:earth_americas:`  |  :earth_asia: | `:earth_asia:` |
 | [top](#table-of-contents) | :volcano: | `:volcano:`  |  :milky_way: | `:milky_way:` |
 | [top](#table-of-contents) | :partly_sunny: | `:partly_sunny:`  |  :octocat: | `:octocat:` |
-| [top](#table-of-contents) | :squirrel: | `:squirrel:`  |  :: | `::` |
+| [top](#table-of-contents) | :squirrel: | `:squirrel:`  |  | |
 
 ### Objects
 
