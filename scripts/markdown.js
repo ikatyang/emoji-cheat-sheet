@@ -2,17 +2,24 @@ const format = str => str.trim().replace(/^ +/mg, '');
 
 module.exports = class Markdown {
 
-  static create(title, emojiTable, columnDivisions) {
+  static create(url, title, emojiTable, columnDivisions) {
+    const emojiCatalogs = Object.keys(emojiTable);
     return format(`
 
       # ${title}
 
+      This cheat sheet is auto-generated from <${url}> using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/master).
+
+      ## Table of Contents
+
+      ${emojiCatalogs.map(catalog => `- [${catalog}](#${catalog.toLowerCase()})`).join('\n')}
+
       ${
-        Object.keys(emojiTable).map(catalog => {
+        emojiCatalogs.map(catalog => {
           const emojis = emojiTable[catalog];
           return format(`
 
-            #### ${catalog}
+            ## ${catalog}
 
             ${this.createTable(emojis, columnDivisions)}
 
@@ -26,8 +33,8 @@ module.exports = class Markdown {
   static createTableHead(columnDivisions) {
     return format(`
 
-    |${(' icon | emoji |').repeat(columnDivisions)}
-    |${(' ---- | ----- |').repeat(columnDivisions)}
+    |   |${(' icon | emoji |').repeat(columnDivisions)}
+    | - |${(' ---- | ----- |').repeat(columnDivisions)}
 
     `);
   }
@@ -40,7 +47,7 @@ module.exports = class Markdown {
         rowEmojis.push('');
       table += format(`
 
-      |${rowEmojis.map((emoji) => ` :${emoji}: | \`:${emoji}:\` `).join(' | ')}|
+      | [↑](#table-of-contents) |${rowEmojis.map((emoji) => ` :${emoji}: | \`:${emoji}:\` `).join(' | ')}|
 
       `) + '\n';
     }

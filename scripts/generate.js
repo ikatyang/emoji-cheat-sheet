@@ -36,6 +36,6 @@ request.get(url, (error, response, body) => {
     } else {
       fs.mkdirSync(outDir);
     }
-    fs.writeFileSync(outFile, markdown.create(title, emojiTable, columnDivisions));
+    fs.writeFileSync(outFile, markdown.create(url, title, emojiTable, columnDivisions));
   }
 });
