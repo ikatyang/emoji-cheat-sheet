@@ -1,6 +1,6 @@
 # emoji-cheat-sheet
 
-This cheat sheet is auto-generated from [GitHub Emoji API](https://api.github.com/emojis) and [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com) using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/master).
+This cheat sheet is auto-generated from [GitHub Emoji API](https://api.github.com/emojis) and [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com) using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/generator).
 
 ## Table of Contents
 
