@@ -2,24 +2,25 @@ const format = str => str.trim().replace(/^ +/mg, '');
 
 module.exports = class Markdown {
 
-  static create(url, title, emojiTable, columnDivisions) {
-    const emojiCatalogs = Object.keys(emojiTable);
+  static create(urls, title, emojiTable, columnDivisions) {
+    const categories = Object.keys(emojiTable);
+    const urlDescriptions = Object.keys(urls).map((site) => `[${site}](${urls[site]})`).join(' and ');
     return format(`
 
       # ${title}
 
-      This cheat sheet is auto-generated from <${url}> using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/master).
+      This cheat sheet is auto-generated from ${urlDescriptions} using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/master).
 
       ## Table of Contents
 
-      ${emojiCatalogs.map(catalog => `- [${catalog}](#${catalog.toLowerCase()})`).join('\n')}
+      ${categories.map(category => `- [${category}](#${category.toLowerCase()})`).join('\n')}
 
       ${
-        emojiCatalogs.map(catalog => {
-          const emojis = emojiTable[catalog];
+        categories.map(category => {
+          const emojis = emojiTable[category];
           return format(`
 
-            ### ${catalog}
+            ### ${category}
 
             ${this.createTable(emojis, columnDivisions)}
 
@@ -33,8 +34,8 @@ module.exports = class Markdown {
   static createTableHead(columnDivisions) {
     return format(`
 
-    |   |${(' icon | emoji |').repeat(columnDivisions)}
-    | - |${(' ---- | ----- |').repeat(columnDivisions)}
+    |   |${(' ico | emoji |').repeat(columnDivisions)}
+    | - |${(' --- | ----- |').repeat(columnDivisions)}
 
     `);
   }
@@ -47,7 +48,7 @@ module.exports = class Markdown {
         rowEmojis.push('');
       table += format(`
 
-      | [top](#table-of-contents) |${rowEmojis.map((emoji) => emoji ? ` ${emoji} | \`${emoji}\` ` : ' | ').join(' | ')}|
+      | [top](#table-of-contents) |${rowEmojis.map((emoji) => emoji ? ` :${emoji}: | \`:${emoji}:\` ` : ' | ').join(' | ')}|
 
       `) + '\n';
     }
