@@ -9,7 +9,7 @@ module.exports = class Markdown {
 
       # ${title}
 
-      This cheat sheet is auto-generated from ${urlDescriptions} using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/master).
+      This cheat sheet is auto-generated from ${urlDescriptions} using [emoji-cheat-sheet-generator](https://github.com/ikatyang/emoji-cheat-sheet/tree/generator).
 
       ## Table of Contents
 
