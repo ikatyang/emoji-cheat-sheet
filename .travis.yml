@@ -9,7 +9,7 @@ before_install:
 - git config --global push.default simple
 
 before_script:
-- git clone --depth=1 --branch=generated "https://github.com/$TRAVIS_REPO_SLUG.git" ./generated
+- git clone --depth=1 --branch=master "https://github.com/$TRAVIS_REPO_SLUG.git" ./generated
 - rm -rf ./generated/*
 
 script:
