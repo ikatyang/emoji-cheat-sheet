@@ -1,0 +1,21 @@
+{
+  "testEnvironment": "node",
+  "moduleFileExtensions": ["ts", "js", "json"],
+  "mapCoverage": true,
+  "coverageReporters": ["lcov", "text-summary"],
+  "transform": { "\\.ts$": "ts-jest/preprocessor" },
+  "testMatch": ["**/*.test.ts"],
+  "collectCoverageFrom": ["src/**/*.ts"],
+  "coverageThreshold": {
+    "global": {
+      "branches": 100,
+      "functions": 100,
+      "lines": 100,
+      "statements": 100
+    }
+  },
+  "reporters": [
+    "default",
+    "jest-playback"
+  ]
+}

@@ -8,7 +8,7 @@
   "repository": "https://github.com/ikatyang/emoji-cheat-sheet/tree/generator",
   "scripts": {
     "lint": "tslint -p ./tsconfig.json",
-    "generate": "node ./scripts/generate.js"
+    "test": "jest -c ./jest.json"
   },
   "dependencies": {
     "cheerio": "^0.22.0",

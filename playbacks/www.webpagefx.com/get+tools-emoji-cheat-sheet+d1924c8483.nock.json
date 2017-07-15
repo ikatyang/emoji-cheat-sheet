@@ -1,0 +1,28 @@
+{
+  "scope": "http://www.webpagefx.com:80",
+  "method": "GET",
+  "path": "/tools/emoji-cheat-sheet/",
+  "body": "",
+  "status": 301,
+  "response": "<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>CloudFront</center>\r\n</body>\r\n</html>\r\n",
+  "rawHeaders": [
+    "Server",
+    "CloudFront",
+    "Date",
+    "Sat, 15 Jul 2017 15:29:19 GMT",
+    "Content-Type",
+    "text/html",
+    "Content-Length",
+    "183",
+    "Connection",
+    "close",
+    "Location",
+    "https://www.webpagefx.com/tools/emoji-cheat-sheet/",
+    "X-Cache",
+    "Redirect from cloudfront",
+    "Via",
+    "1.1 76bce8bb4fbd102fc0b3aa2e41094b79.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id",
+    "qpAvYqmevPQivnDy1hZxDykgTI_776Uql3rvV7I9cCJjoo-P9j28sw=="
+  ]
+}

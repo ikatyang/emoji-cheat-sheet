@@ -62,6 +62,7 @@ export async function create_cheat_sheet() {
     emoji_table[category] = emojis;
   });
 
+  // istanbul ignore next
   if (api_emojis.length > 0) {
     emoji_table[uncategorized] = api_emojis;
   }
@@ -144,13 +145,14 @@ async function get_html(url: string) {
       });
     }
     request.get(options, (error, response, html) => {
-      if (error || response.statusCode !== 200) {
+      // istanbul ignore next
+      if (!error && response.statusCode === 200) {
+        resolve(html);
+      } else {
         const error_message = Boolean(error)
           ? error
           : `Unexpected response status code: ${response.statusCode}`;
         reject(error_message);
-      } else {
-        resolve(html);
       }
     });
   });
