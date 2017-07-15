@@ -3,7 +3,14 @@ language: node_js
 node_js:
 - stable
 
+script:
+- yarn run lint
+- yarn run test -- --verbose --coverage
+
 cache:
   yarn: true
   directories:
   - node_modules
+
+matrix:
+  fast_finish: true
