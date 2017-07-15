@@ -8,7 +8,7 @@ script:
 - yarn run test -- --verbose --coverage
 
 after_success:
-- if [ "$TRAVIS_EVENT_TYPE" = "cron" ]; then yarn run generate; fi
+- if [ "$TRAVIS_EVENT_TYPE" = "cron" ]; then bash ./scripts/deploy.sh; fi
 
 cache:
   yarn: true
