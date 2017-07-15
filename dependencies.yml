@@ -1,0 +1,11 @@
+collectors:
+
+- type: js-npm
+  path: /
+  actors:
+  # pull requests for updates to our major version
+  - type: js-npm
+    versions: "L.Y.Y"
+  # create issues for new major versions
+  - type: repo-issue
+    versions: "Y.0.0"
