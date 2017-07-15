@@ -1,35 +1,9 @@
 language: node_js
 
 node_js:
-- '6'
-
-before_install:
-- git config --global user.name "$GIT_USER_NAME"
-- git config --global user.email "$GIT_USER_EMAIL"
-- git config --global push.default simple
-
-before_script:
-- git clone --depth=1 --branch=master "https://github.com/$TRAVIS_REPO_SLUG.git" ./generated
-- rm -rf ./generated/*
-
-script:
-- yarn run generate
-
-after_success:
-- cd ./generated
-- git add --all
-- git commit -m "Update emoji-cheat-sheet"
-- git push -qf "https://$GITHUB_ACCESS_TOKEN@github.com/$TRAVIS_REPO_SLUG.git"
-
-branches:
-  only:
-  - generator
+- stable
 
 cache:
   yarn: true
   directories:
   - node_modules
-
-env:
-  global:
-    secure: DGAmpkJk6+RZIuNpobOd+6gHY9lTkNa/BQXDjbeX1UVO28kCT7vUuq6kmrFYcXLuHc6VCPzqve73byoy2uIbgpLjcp1P3k97x950f4atlqGXyEGCuzPN/wnJi2DHgAYAWC0bYqvgYjIXi/fdS3etPTBp1S/gUDGrvxkQuG4KTLmT163hnfLAQVHX/eE+0pPzR5ZbhUO0v3hyhqGhreYfvH22OaurbrBfxkE+d8cs9v9llRw3Xsj4KZZiMrHu9xAaoo9uxW0QM6PEElPitGfB5fCogQvmBFpk02Gsl3UoN++/7tjb6wkGgayhbQzopS+NyYXw5NCIKuzDkt5X68B0J+Dp8gcNCp4Fp08jmK4D7xqmqJopHDulyuQqgZ+/nue6+6j7J6I9tBnIftjPoDyYIme2YeMkrt2+P2ofv2E+Wv3aTLqZsg1CbkAhUHURGhG40UoaKSk3ft75+i5/VWdBe0QV6aLLmMl/2Hu5dJCtt9uGldAuC0huu6gIjXR0pPVMlGinxtPvjU0k/2ADxHzqwhLeaYpPX0HPWbYd25Can1IlwtmLELlVnTTzMwYugJzgpswm1pmH9jaq7oGjgv9VTRBz1Ab8uAaOivQi/W5Mb1LsWigHOiXmwTkMTs5NHGkolEX307Xv9XASr9F5T8hGNkUFBYQ6DJkjIm9uR14TcdQ=
