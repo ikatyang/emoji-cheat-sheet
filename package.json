@@ -1,5 +1,5 @@
 {
-  "name": "emoji-cheat-sheet-generator",
+  "name": "emoji-cheat-sheet",
   "version": "0.0.0-dev",
   "private": true,
   "author": "ikatyang",
@@ -7,6 +7,7 @@
   "homepage": "https://github.com/ikatyang/emoji-cheat-sheet",
   "repository": "https://github.com/ikatyang/emoji-cheat-sheet/tree/generator",
   "scripts": {
+    "lint": "tslint -p ./tsconfig.json",
     "generate": "node ./scripts/generate.js"
   },
   "dependencies": {
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@types/cheerio": "0.22.2",
     "@types/jest": "20.0.2",
+    "@types/node": "8.0.13",
     "@types/request": "0.0.47",
     "jest": "20.0.4",
     "jest-playback": "1.0.0",
