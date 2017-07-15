@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["es6"],
+    "module": "commonjs"
+  },
+  "include": ["src/**/*.ts"]
+}

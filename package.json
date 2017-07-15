@@ -1,0 +1,31 @@
+{
+  "name": "emoji-cheat-sheet",
+  "version": "0.0.0-dev",
+  "private": true,
+  "author": "ikatyang",
+  "license": "MIT",
+  "homepage": "https://github.com/ikatyang/emoji-cheat-sheet",
+  "repository": "https://github.com/ikatyang/emoji-cheat-sheet/tree/generator",
+  "scripts": {
+    "lint": "tslint -p ./tsconfig.json",
+    "test": "jest -c ./jest.json",
+    "generate": "ts-node ./scripts/generate.ts ./README.md"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "0.22.2",
+    "@types/jest": "20.0.2",
+    "@types/node": "8.0.13",
+    "@types/request": "0.0.47",
+    "jest": "20.0.4",
+    "jest-playback": "1.0.0",
+    "ts-jest": "20.0.7",
+    "ts-node": "3.2.0",
+    "tslint": "5.5.0",
+    "tslint-config-ikatyang": "0.10.0",
+    "typescript": "2.4.1"
+  }
+}

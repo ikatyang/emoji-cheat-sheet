@@ -1,0 +1,19 @@
+language: node_js
+
+node_js:
+- stable
+
+script:
+- yarn run lint
+- yarn run test -- --verbose --coverage
+
+after_success:
+- if [ "$TRAVIS_EVENT_TYPE" = "cron" ]; then yarn run generate; fi
+
+cache:
+  yarn: true
+  directories:
+  - node_modules
+
+matrix:
+  fast_finish: true
