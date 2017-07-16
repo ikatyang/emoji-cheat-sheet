@@ -6,4 +6,4 @@ git config --global push.default simple
 
 git add --all
 git commit -m "docs(readme): update emoji-cheat-sheet"
-git push -q origin HEAD:master
+git push -q "https://$GH_TOKEN@github.com/$TRAVIS_REPO_SLUG.git" HEAD:master
