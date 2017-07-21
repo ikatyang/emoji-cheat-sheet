@@ -23,7 +23,7 @@
     "jest": "20.0.4",
     "jest-playback": "1.0.0",
     "ts-jest": "20.0.7",
-    "ts-node": "3.2.0",
+    "ts-node": "3.2.1",
     "tslint": "5.5.0",
     "tslint-config-ikatyang": "0.10.0",
     "typescript": "2.4.1"
