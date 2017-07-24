@@ -18,7 +18,9 @@ const travis_badge_url = `https://travis-ci.org/${repo_author}/${repo_name}.svg?
 const url_descriptions = [
   ['GitHub Emoji API', api_url],
   ['Emoji Cheat Sheet', sheet_url],
-].map(([site_name, site_url]) => `[${site_name}](${site_url})`).join(' and ');
+]
+  .map(([site_name, site_url]) => `[${site_name}](${site_url})`)
+  .join(' and ');
 
 // tslint:disable-next-line:max-line-length
 const description = `This cheat sheet is automatically generated from ${url_descriptions}`;
@@ -51,14 +53,16 @@ export async function create_cheat_sheet() {
   $html.find('h2').each((_outer_index, category_element) => {
     const emojis: string[] = [];
     const category = $(category_element).text();
-    $html.find(`#emoji-${category.toLowerCase()} li .name`).each((_inner_index, emoji_element) => {
-      const emoji = $(emoji_element).text();
-      const index = api_emojis.indexOf(emoji);
-      if (index !== -1) {
-        api_emojis.splice(index, 1);
-        emojis.push(emoji);
-      }
-    });
+    $html
+      .find(`#emoji-${category.toLowerCase()} li .name`)
+      .each((_inner_index, emoji_element) => {
+        const emoji = $(emoji_element).text();
+        const index = api_emojis.indexOf(emoji);
+        if (index !== -1) {
+          api_emojis.splice(index, 1);
+          emojis.push(emoji);
+        }
+      });
     emoji_table[category] = emojis;
   });
 
@@ -82,10 +86,12 @@ function create_table(emoji_table: EmojiTable) {
 
     ## ${toc_name}
 
-    ${categories.map(category => `- [${category}](#${category.toLowerCase()})`).join('\n')}
+    ${categories
+      .map(category => `- [${category}](#${category.toLowerCase()})`)
+      .join('\n')}
 
-    ${
-      categories.map(category => {
+    ${categories
+      .map(category => {
         const emojis = emoji_table[category];
         return format(`
 
@@ -95,8 +101,8 @@ function create_table(emoji_table: EmojiTable) {
           ${create_table_content(emojis)}
 
         `);
-      }).join(('\n').repeat(2))
-    }
+      })
+      .join('\n'.repeat(2))}
 
   `);
 }
@@ -110,13 +116,11 @@ function create_table_content(emojis: string[]) {
     }
     table_content += `${format(`
 
-    | [${top_name}](${top_href}) |${
-      row_emojis.map(
-        emoji => emoji.length !== 0
-          ? ` :${emoji}: | \`:${emoji}:\` `
-          : ' | ',
-      ).join(' | ')
-    }|
+    | [${top_name}](${top_href}) |${row_emojis
+      .map(
+        emoji => (emoji.length !== 0 ? ` :${emoji}: | \`:${emoji}:\` ` : ' | '),
+      )
+      .join(' | ')}|
 
     `)}\n`;
   }
@@ -126,26 +130,29 @@ function create_table_content(emojis: string[]) {
 function create_table_head() {
   return format(`
 
-  |   |${(' ico | emoji |').repeat(column_divisions)}
-  | - |${(' --- | ----- |').repeat(column_divisions)}
+  |   |${' ico | emoji |'.repeat(column_divisions)}
+  | - |${' --- | ----- |'.repeat(column_divisions)}
 
   `);
 }
 
 function format(str: string) {
-  return str.trim().replace(/^ +/mg, '');
+  return str.trim().replace(/^ +/gm, '');
 }
 
 async function get_html(url: string) {
   return new Promise<string>((resolve, reject) => {
-    const options = {url};
+    const options = { url };
     if (url === api_url) {
       Object.assign(options, {
-        headers: {'User-Agent': 'https://github.com/ikatyang/emoji-cheat-sheet'},
+        headers: {
+          'User-Agent': 'https://github.com/ikatyang/emoji-cheat-sheet',
+        },
       });
     }
     request.get(options, (error, response, html) => {
       // istanbul ignore next
+      // tslint:disable-next-line:early-exit
       if (!error && response.statusCode === 200) {
         resolve(html);
       } else {
