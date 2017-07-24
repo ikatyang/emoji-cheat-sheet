@@ -5,6 +5,7 @@ node_js:
 
 script:
 - yarn run lint
+- yarn run format-check
 - yarn run test -- --verbose --coverage
 
 after_success:
