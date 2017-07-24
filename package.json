@@ -9,7 +9,9 @@
   "scripts": {
     "lint": "tslint -p ./tsconfig.json",
     "test": "jest -c ./jest.json",
-    "generate": "ts-node ./scripts/generate.ts ./README.md"
+    "generate": "ts-node ./scripts/generate.ts ./README.md",
+    "format": "gulp format",
+    "format-check": "gulp format-check"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
@@ -17,15 +19,20 @@
   },
   "devDependencies": {
     "@types/cheerio": "0.22.2",
+    "@types/gulp": "3.8.33",
     "@types/jest": "20.0.4",
     "@types/node": "8.0.15",
+    "@types/prettier": "1.5.0",
     "@types/request": "2.0.0",
+    "gulp": "3.9.1",
+    "gulp-plugin-prettier": "1.0.0",
     "jest": "20.0.4",
     "jest-playback": "1.0.0",
+    "prettier": "1.5.3",
     "ts-jest": "20.0.7",
     "ts-node": "3.2.1",
     "tslint": "5.5.0",
-    "tslint-config-ikatyang": "0.10.0",
+    "tslint-config-ikatyang": "1.0.1",
     "typescript": "2.4.2"
   }
 }
