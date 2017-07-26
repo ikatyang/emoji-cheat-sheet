@@ -30,7 +30,7 @@
     "jest-playback": "1.0.0",
     "prettier": "1.5.3",
     "ts-jest": "20.0.7",
-    "ts-node": "3.2.1",
+    "ts-node": "3.3.0",
     "tslint": "5.5.0",
     "tslint-config-ikatyang": "1.0.2",
     "typescript": "2.4.2"
