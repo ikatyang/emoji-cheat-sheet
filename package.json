@@ -21,7 +21,7 @@
     "@types/cheerio": "0.22.2",
     "@types/gulp": "3.8.33",
     "@types/jest": "20.0.5",
-    "@types/node": "8.0.15",
+    "@types/node": "8.0.17",
     "@types/prettier": "1.5.0",
     "@types/request": "2.0.0",
     "gulp": "3.9.1",
@@ -30,7 +30,7 @@
     "jest-playback": "1.0.0",
     "prettier": "1.5.3",
     "ts-jest": "20.0.7",
-    "ts-node": "3.2.1",
+    "ts-node": "3.3.0",
     "tslint": "5.5.0",
     "tslint-config-ikatyang": "1.0.2",
     "typescript": "2.4.2"
