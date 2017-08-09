@@ -2,37 +2,6 @@
 # yarn lockfile v1
 
 
-"@types/babel-core@^6.7.14":
-  version "6.7.14"
-  resolved "https://registry.yarnpkg.com/@types/babel-core/-/babel-core-6.7.14.tgz#a08c900a98e8987c1a98d2ea4fa0a1805a7d131f"
-  dependencies:
-    "@types/babel-template" "*"
-    "@types/babel-traverse" "*"
-    "@types/babel-types" "*"
-
-"@types/babel-template@*":
-  version "6.7.14"
-  resolved "https://registry.yarnpkg.com/@types/babel-template/-/babel-template-6.7.14.tgz#8088a56f9d697d620d3d079c3ef66025b7a08d02"
-  dependencies:
-    "@types/babel-types" "*"
-    "@types/babylon" "*"
-
-"@types/babel-traverse@*":
-  version "6.7.17"
-  resolved "https://registry.yarnpkg.com/@types/babel-traverse/-/babel-traverse-6.7.17.tgz#5212a4edced81f53a6c4fb1fd7a34aa4ff6cf36b"
-  dependencies:
-    "@types/babel-types" "*"
-
-"@types/babel-types@*":
-  version "6.7.16"
-  resolved "https://registry.yarnpkg.com/@types/babel-types/-/babel-types-6.7.16.tgz#e2602896636858a0067971f7ca4bb8678038293f"
-
-"@types/babylon@*":
-  version "6.16.1"
-  resolved "https://registry.yarnpkg.com/@types/babylon/-/babylon-6.16.1.tgz#e4d10ab9e43a73703a17c6f41438bede28769340"
-  dependencies:
-    "@types/babel-types" "*"
-
 "@types/cheerio@0.22.2":
   version "0.22.2"
   resolved "https://registry.yarnpkg.com/@types/cheerio/-/cheerio-0.22.2.tgz#539625874bc856086ad491c2fdc9b10c05ae308e"
@@ -2335,11 +2304,10 @@ trim-right@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
 
-ts-jest@20.0.9:
-  version "20.0.9"
-  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-20.0.9.tgz#b09a3060f18bc9206e0c5ebc7b0af6dc010e2dc4"
+ts-jest@20.0.10:
+  version "20.0.10"
+  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-20.0.10.tgz#19e9386e6c890d31c2a64e938edc0c84fc937ebc"
   dependencies:
-    "@types/babel-core" "^6.7.14"
     babel-core "^6.24.1"
     babel-plugin-istanbul "^4.1.4"
     babel-plugin-transform-es2015-modules-commonjs "^6.24.1"
