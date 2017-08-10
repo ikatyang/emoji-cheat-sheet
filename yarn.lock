@@ -20,9 +20,9 @@
   version "8.0.15"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.15.tgz#8f23f8a4642ced357704d048010876fc0c7f179a"
 
-"@types/node@8.0.19":
-  version "8.0.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.19.tgz#e46e2b0243de7d03f15b26b45c59ebb84f657a4e"
+"@types/node@8.0.20":
+  version "8.0.20"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.20.tgz#65c7375255c24b184c215a5d0b63247c32f01c91"
 
 "@types/request@2.0.0":
   version "2.0.0"
@@ -2323,9 +2323,9 @@ tslib@^1.0.0, tslib@^1.7.1:
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.7.1.tgz#bc8004164691923a79fe8378bbeb3da2017538ec"
 
-tslint-config-ikatyang@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/tslint-config-ikatyang/-/tslint-config-ikatyang-2.1.0.tgz#8b3b8f615004bc2f6cd4d7cca151c2ad04570e69"
+tslint-config-ikatyang@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/tslint-config-ikatyang/-/tslint-config-ikatyang-2.2.0.tgz#10de198873836a0a521fc1071ad8ec9fbca5d727"
   dependencies:
     tslint-consistent-codestyle "~1.6.0"
     tslint-eslint-rules "~4.1.0"
