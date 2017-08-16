@@ -688,6 +688,13 @@ escodegen@^1.6.1:
   optionalDependencies:
     source-map "~0.2.0"
 
+eslint-plugin-prettier@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-2.2.0.tgz#f2837ad063903d73c621e7188fb3d41486434088"
+  dependencies:
+    fast-diff "^1.1.1"
+    jest-docblock "^20.0.1"
+
 esprima@^2.7.1:
   version "2.7.3"
   resolved "https://registry.yarnpkg.com/esprima/-/esprima-2.7.3.tgz#96e3b70d5779f6ad49cd032673d1c312767ba581"
@@ -1242,7 +1249,7 @@ jest-diff@^20.0.3:
     jest-matcher-utils "^20.0.3"
     pretty-format "^20.0.3"
 
-jest-docblock@^20.0.3:
+jest-docblock@^20.0.1, jest-docblock@^20.0.3:
   version "20.0.3"
   resolved "https://registry.yarnpkg.com/jest-docblock/-/jest-docblock-20.0.3.tgz#17bea984342cc33d83c50fbe1545ea0efaa44712"
 
@@ -2415,11 +2422,11 @@ tslint-plugin-ikatyang@~1.0.0:
     tslib "^1.7.1"
     tsutils "^2.8.0"
 
-tslint-plugin-prettier@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/tslint-plugin-prettier/-/tslint-plugin-prettier-1.0.0.tgz#2138ec2a65de883d19b95247430771cdfcbff8de"
+tslint-plugin-prettier@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/tslint-plugin-prettier/-/tslint-plugin-prettier-1.1.0.tgz#05e84d2b6716d6d9ae62017533b612f9ed7a1085"
   dependencies:
-    fast-diff "^1.1.1"
+    eslint-plugin-prettier "^2.2.0"
     tslib "^1.7.1"
 
 tslint@5.6.0:
