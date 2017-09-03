@@ -22,7 +22,7 @@
     "@types/request": "2.0.3",
     "jest": "20.0.4",
     "jest-playback": "1.0.0",
-    "prettier": "1.6.0",
+    "prettier": "1.6.1",
     "prettier-config-ikatyang": "1.1.1",
     "ts-jest": "20.0.10",
     "ts-node": "3.3.0",
