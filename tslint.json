@@ -1,7 +1,7 @@
 {
   "extends": [
     "tslint-config-ikatyang",
-    "tslint-config-prettier-ext",
+    "tslint-config-prettier",
     "tslint-plugin-prettier",
     "prettier-config-ikatyang/tslint"
   ]
