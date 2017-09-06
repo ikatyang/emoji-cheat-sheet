@@ -24,7 +24,7 @@
     "jest-playback": "1.0.0",
     "prettier": "1.6.1",
     "prettier-config-ikatyang": "1.1.1",
-    "ts-jest": "20.0.14",
+    "ts-jest": "21.0.0",
     "ts-node": "3.3.0",
     "tslint": "5.7.0",
     "tslint-config-ikatyang": "2.3.0",
