@@ -1396,9 +1396,9 @@ jest-mock@^21.0.0:
   version "21.0.0"
   resolved "https://registry.yarnpkg.com/jest-mock/-/jest-mock-21.0.0.tgz#948fdbb44ef702ca998e078ca62b4968780e102e"
 
-jest-playback@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/jest-playback/-/jest-playback-1.0.0.tgz#e55a39f14f23d8b988f27e4471700b3f5f96fdd7"
+jest-playback@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/jest-playback/-/jest-playback-1.0.1.tgz#7d66056b4647d5248092e2cb582eefb70381b057"
   dependencies:
     glob "^7.1.2"
     lodash "^4.17.4"
