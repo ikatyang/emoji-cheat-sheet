@@ -2735,9 +2735,9 @@ tslint-plugin-ikatyang@~1.1.1:
     tslib "^1.7.1"
     tsutils "^2.8.0"
 
-tslint-plugin-prettier@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/tslint-plugin-prettier/-/tslint-plugin-prettier-1.1.0.tgz#05e84d2b6716d6d9ae62017533b612f9ed7a1085"
+tslint-plugin-prettier@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/tslint-plugin-prettier/-/tslint-plugin-prettier-1.2.0.tgz#bb08a5db4ebe92266d876a91d5488c1ba0281d83"
   dependencies:
     eslint-plugin-prettier "^2.2.0"
     tslib "^1.7.1"
