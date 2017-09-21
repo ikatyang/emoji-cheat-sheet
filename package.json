@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "request": "^2.81.0"
+    "request": "^2.82.0"
   },
   "devDependencies": {
     "@types/cheerio": "0.22.2",
