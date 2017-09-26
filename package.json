@@ -20,7 +20,7 @@
     "@types/jest": "21.1.1",
     "@types/node": "8.0.31",
     "@types/request": "2.0.3",
-    "jest": "21.1.0",
+    "jest": "21.2.0",
     "jest-playback": "1.0.1",
     "prettier": "1.7.0",
     "prettier-config-ikatyang": "1.1.1",
