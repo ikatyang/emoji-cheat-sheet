@@ -30,6 +30,6 @@
     "tslint-config-ikatyang": "2.4.0",
     "tslint-config-prettier": "1.5.0",
     "tslint-plugin-prettier": "1.2.0",
-    "typescript": "2.5.2"
+    "typescript": "2.5.3"
   }
 }
