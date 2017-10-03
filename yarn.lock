@@ -16,7 +16,11 @@
   version "21.1.1"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-21.1.1.tgz#70008ecce439774a45c7d0b543d879ec58a1b332"
 
-"@types/node@*", "@types/node@8.0.31":
+"@types/node@*":
+  version "8.0.32"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.32.tgz#869a716538b6eec65ab3893f183d557be3cda206"
+
+"@types/node@8.0.31":
   version "8.0.31"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.31.tgz#d9af61093cf4bfc9f066ca34de0175012cfb0ce9"
 
@@ -2180,9 +2184,9 @@ prettier-config-ikatyang@1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/prettier-config-ikatyang/-/prettier-config-ikatyang-1.1.1.tgz#9ccab4bc2d441e4c68b58dbe8f1a4e18213c3f2d"
 
-prettier@1.7.3:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.7.3.tgz#8e6974725273914b1c47439959dd3d3ba53664b6"
+prettier@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.7.4.tgz#5e8624ae9363c80f95ec644584ecdf55d74f93fa"
 
 pretty-format@^21.2.1:
   version "21.2.1"
@@ -2754,8 +2758,8 @@ tsutils@^1.4.0:
   resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-1.9.1.tgz#b9f9ab44e55af9681831d5f28d0aeeaf5c750cb0"
 
 tsutils@^2.6.1, tsutils@^2.8.0, tsutils@^2.8.1:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.10.0.tgz#ae94511df2656eb06e4424056fba5c388887040c"
+  version "2.11.1"
+  resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.11.1.tgz#103dff3fa508aff5649c16dc4e6dd45dc41dbc62"
   dependencies:
     tslib "^1.7.1"
 
