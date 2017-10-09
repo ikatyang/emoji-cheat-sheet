@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@types/cheerio@0.22.2":
-  version "0.22.2"
-  resolved "https://registry.yarnpkg.com/@types/cheerio/-/cheerio-0.22.2.tgz#539625874bc856086ad491c2fdc9b10c05ae308e"
+"@types/cheerio@0.22.3":
+  version "0.22.3"
+  resolved "https://registry.yarnpkg.com/@types/cheerio/-/cheerio-0.22.3.tgz#c448036ec3d1b4fd8a61c6b37b3faa6d9c8b7b97"
 
 "@types/form-data@*":
   version "2.2.0"
