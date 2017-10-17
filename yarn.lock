@@ -12,9 +12,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/jest@21.1.2":
-  version "21.1.2"
-  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-21.1.2.tgz#05ebfa64817b626694ced56745a7949281981048"
+"@types/jest@21.1.4":
+  version "21.1.4"
+  resolved "https://registry.yarnpkg.com/@types/jest/-/jest-21.1.4.tgz#83c5c474dd6dee5bef9d014ff36787edfd4ab5a7"
 
 "@types/node@*":
   version "8.0.34"
