@@ -2707,11 +2707,11 @@ tslib@^1.0.0, tslib@^1.7.1:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.8.0.tgz#dc604ebad64bcbf696d613da6c954aa0e7ea1eb6"
 
-tslint-config-ikatyang@2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/tslint-config-ikatyang/-/tslint-config-ikatyang-2.4.0.tgz#b77ed21682a645a546e0c0fda7cfb0682b991654"
+tslint-config-ikatyang@2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/tslint-config-ikatyang/-/tslint-config-ikatyang-2.5.1.tgz#d99a5479e5386f639b9a07e50a33588bc5c64070"
   dependencies:
-    tslint-consistent-codestyle "~1.6.0"
+    tslint-consistent-codestyle "~1.8.0"
     tslint-eslint-rules "~4.1.0"
     tslint-plugin-ikatyang "~1.1.1"
 
@@ -2719,12 +2719,12 @@ tslint-config-prettier@1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.6.0.tgz#fec1ee8fb07e8f033c63fed6b135af997f31962a"
 
-tslint-consistent-codestyle@~1.6.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/tslint-consistent-codestyle/-/tslint-consistent-codestyle-1.6.0.tgz#e42f5fd1d5bd4ffa697386ec8a41ed2cb6812aaf"
+tslint-consistent-codestyle@~1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/tslint-consistent-codestyle/-/tslint-consistent-codestyle-1.8.0.tgz#ede0b5ec6777f8ff4426d9838bc9bf18e8174480"
   dependencies:
     tslib "^1.7.1"
-    tsutils "^2.6.1"
+    tsutils "^2.12.0"
 
 tslint-eslint-rules@~4.1.0:
   version "4.1.1"
@@ -2772,7 +2772,7 @@ tsutils@^1.4.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-1.9.1.tgz#b9f9ab44e55af9681831d5f28d0aeeaf5c750cb0"
 
-tsutils@^2.12.1, tsutils@^2.6.1, tsutils@^2.8.0:
+tsutils@^2.12.0, tsutils@^2.12.1, tsutils@^2.8.0:
   version "2.12.1"
   resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.12.1.tgz#f4d95ce3391c8971e46e54c4cf0edb0a21dd5b24"
   dependencies:
