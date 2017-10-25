@@ -24,9 +24,9 @@
   version "8.0.47"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.47.tgz#968e596f91acd59069054558a00708c445ca30c2"
 
-"@types/request@2.0.6":
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/@types/request/-/request-2.0.6.tgz#fe05b206f8ef6378da236698421e904685fcc001"
+"@types/request@2.0.7":
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/@types/request/-/request-2.0.7.tgz#a2aa5a57317c21971d9b024e393091ab2c99ab98"
   dependencies:
     "@types/form-data" "*"
     "@types/node" "*"
