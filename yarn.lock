@@ -24,12 +24,13 @@
   version "8.5.8"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.5.8.tgz#92509422653f10e9c0ac18d87e0610b39f9821c7"
 
-"@types/request@2.0.9":
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/@types/request/-/request-2.0.9.tgz#125b8a60d8a439e8d87e6d1335c61cccdc18343a"
+"@types/request@2.0.10":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@types/request/-/request-2.0.10.tgz#742b4d68b7e70089332c9d1ca80e4e9f1ae06d0f"
   dependencies:
     "@types/form-data" "*"
     "@types/node" "*"
+    "@types/tough-cookie" "*"
 
 "@types/strip-bom@^3.0.0":
   version "3.0.0"
@@ -38,6 +39,10 @@
 "@types/strip-json-comments@0.0.30":
   version "0.0.30"
   resolved "https://registry.yarnpkg.com/@types/strip-json-comments/-/strip-json-comments-0.0.30.tgz#9aa30c04db212a9a0649d6ae6fd50accc40748a1"
+
+"@types/tough-cookie@*":
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/@types/tough-cookie/-/tough-cookie-2.3.2.tgz#e0d481d8bb282ad8a8c9e100ceb72c995fb5e709"
 
 abab@^1.0.3:
   version "1.0.4"
