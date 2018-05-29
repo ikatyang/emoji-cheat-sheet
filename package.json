@@ -12,8 +12,8 @@
     "generate": "ts-node ./scripts/generate.ts ./README.md"
   },
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "request": "^2.82.0"
+    "cheerio": "0.22.0",
+    "request": "2.87.0"
   },
   "devDependencies": {
     "@types/cheerio": "0.22.7",
