@@ -19,7 +19,7 @@
     "@types/cheerio": "0.22.9",
     "@types/jest": "21.1.10",
     "@types/node": "8.10.36",
-    "@types/request": "2.47.1",
+    "@types/request": "2.48.0",
     "jest": "21.2.1",
     "jest-playback": "1.0.1",
     "prettier": "1.14.3",
