@@ -3217,9 +3217,9 @@ tslint-config-ikatyang@2.5.1:
     tslint-eslint-rules "~4.1.0"
     tslint-plugin-ikatyang "~1.1.1"
 
-tslint-config-prettier@1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.15.0.tgz#76b9714399004ab6831fdcf76d89b73691c812cf"
+tslint-config-prettier@1.16.0:
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.16.0.tgz#4627d0e2639554d89210e480093c381b5186963f"
 
 tslint-consistent-codestyle@~1.8.0:
   version "1.8.0"
