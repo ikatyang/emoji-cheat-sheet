@@ -24,9 +24,9 @@
   version "10.12.5"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.5.tgz#7e7ea1a9b34d2c8d704cb0b755dffbcda34741ad"
 
-"@types/node@8.10.37":
-  version "8.10.37"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.37.tgz#d2db49dc6a4e087c3245f22b92061f22494771e5"
+"@types/node@8.10.38":
+  version "8.10.38"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.38.tgz#e05c201a668492e534b48102aca0294898f449f6"
 
 "@types/request@2.48.1":
   version "2.48.1"
