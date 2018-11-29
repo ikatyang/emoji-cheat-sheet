@@ -18,7 +18,7 @@
   "devDependencies": {
     "@types/cheerio": "0.22.10",
     "@types/jest": "21.1.10",
-    "@types/node": "8.10.38",
+    "@types/node": "9.6.40",
     "@types/request": "2.48.1",
     "jest": "21.2.1",
     "jest-playback": "1.0.1",
