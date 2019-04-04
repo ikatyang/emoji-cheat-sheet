@@ -17,10 +17,10 @@
   },
   "devDependencies": {
     "@types/cheerio": "0.22.11",
-    "@types/jest": "21.1.10",
+    "@types/jest": "24.0.11",
     "@types/node": "8.10.44",
     "@types/request": "2.48.1",
-    "jest": "21.2.1",
+    "jest": "24.7.1",
     "jest-playback": "1.0.1",
     "prettier": "1.14.3",
     "prettier-config-ikatyang": "1.1.1",
