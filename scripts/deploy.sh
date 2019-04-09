@@ -1,4 +1,4 @@
-yarn run generate
+yarn generate
 
 git config --global user.name ikatyang-bot
 git config --global user.email ikatyang+bot@gmail.com

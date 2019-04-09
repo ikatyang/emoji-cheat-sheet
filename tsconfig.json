@@ -1,8 +1,12 @@
 {
   "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "resolveJsonModule": true,
     "strict": true,
-    "lib": ["es6"],
-    "module": "commonjs"
+    "target": "es2018"
   },
-  "include": ["src/**/*.ts"]
+  "include": ["scripts/**/*.js"]
 }

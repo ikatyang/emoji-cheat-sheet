@@ -1,11 +1,11 @@
 language: node_js
 
 node_js:
-- stable
+- "8"
 
 script:
-- yarn run lint
-- yarn run test -- --verbose --coverage
+- yarn lint
+- yarn test --ci
 
 after_success:
 - if [ "$TRAVIS_EVENT_TYPE" = "cron" ]; then bash ./scripts/deploy.sh; fi
