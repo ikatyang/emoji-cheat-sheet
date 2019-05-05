@@ -17,7 +17,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 |   | ico | emoji | ico | emoji |
 | - | --- | ----- | --- | ----- |
-| [top](#table-of-contents) | :bowtie: | `:bowtie:` | :smile: | `:smile:` |
+| [top]( :heavy_multiplication_x:)	heavy_plus_sign	 :bowtie: | `:bowtie:` | :smile: | `:smile:` |
 | [top](#table-of-contents) | :laughing: | `:laughing:` | :blush: | `:blush:` |
 | [top](#table-of-contents) | :smiley: | `:smiley:` | :relaxed: | `:relaxed:` |
 | [top](#table-of-contents) | :smirk: | `:smirk:` | :heart_eyes: | `:heart_eyes:` |
