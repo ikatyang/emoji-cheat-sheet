@@ -24,7 +24,7 @@
     "@types/cheerio": "0.22.11",
     "@types/dedent": "0.7.0",
     "@types/jest": "24.0.13",
-    "@types/node": "8.10.48",
+    "@types/node": "8.10.49",
     "@types/request": "2.48.1",
     "jest": "24.8.0",
     "jest-playback": "2.0.2",
