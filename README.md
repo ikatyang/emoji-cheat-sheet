@@ -721,7 +721,8 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#table-of-contents) | :rowing_woman: | `:rowing_woman:` | :running_man: | `:running_man:` |
 | [top](#table-of-contents) | :running_woman: | `:running_woman:` | :rwanda: | `:rwanda:` |
 | [top](#table-of-contents) | :samoa: | `:samoa:` | :san_marino: | `:san_marino:` |
-| [top](#table-of-contents) | :sao_tome_principe: | `:sao_tome_principe:` | :saudi_arabia: | `:saudi_arabia:` |
+| [top](#table-of-contents) | :sao_tome_principe: | `:sao_tome_principe:` | :sassy_man: | `:sassy_man:` |
+| [top](#table-of-contents) | :sassy_woman: | `:sassy_woman:` | :saudi_arabia: | `:saudi_arabia:` |
 | [top](#table-of-contents) | :scorpion: | `:scorpion:` | :selfie: | `:selfie:` |
 | [top](#table-of-contents) | :senegal: | `:senegal:` | :serbia: | `:serbia:` |
 | [top](#table-of-contents) | :seychelles: | `:seychelles:` | :shallow_pan_of_food: | `:shallow_pan_of_food:` |
