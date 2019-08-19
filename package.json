@@ -31,7 +31,7 @@
     "prettier": "1.17.0",
     "tslint": "5.18.0",
     "tslint-plugin-prettier": "2.0.1",
-    "typescript": "3.5.2"
+    "typescript": "3.5.3"
   },
   "engines": {
     "node": ">= 8"
