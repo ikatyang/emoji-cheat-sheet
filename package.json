@@ -21,7 +21,7 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "@types/cheerio": "0.22.11",
+    "@types/cheerio": "0.22.13",
     "@types/dedent": "0.7.0",
     "@types/jest": "24.0.18",
     "@types/node": "8.10.49",
