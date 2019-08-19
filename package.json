@@ -25,7 +25,7 @@
     "@types/dedent": "0.7.0",
     "@types/jest": "24.0.18",
     "@types/node": "8.10.51",
-    "@types/request": "2.48.1",
+    "@types/request": "2.48.2",
     "jest": "24.9.0",
     "jest-playback": "2.0.2",
     "prettier": "1.17.0",
