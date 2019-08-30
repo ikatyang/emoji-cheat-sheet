@@ -374,10 +374,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.2.tgz#c4e63af5e8823ce9cc3f0b34f7b998c2171f0c44"
   integrity sha512-dyYO+f6ihZEtNPDcWNR1fkoTDf3zAK3lAABDze3mz6POyIercH0lEUawUFXlG8xaQZmm1yEBON/4TsYv/laDYg==
 
-"@types/node@8.10.52":
-  version "8.10.52"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.52.tgz#ef0ca1809994e20186090408b8cb7f2a6877d5f9"
-  integrity sha512-2RbW7WXeLex6RI+kQSxq6Ym0GiVcODeQ4Km7MnnTX5BHdOGQnqVa+s6AUmAW+OFYAJ8wv9QxvNZXm7/kBdGTVw==
+"@types/node@8.10.53":
+  version "8.10.53"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.53.tgz#5fa08eef810b08b2c03073e360b54f7bad899db1"
+  integrity sha512-aOmXdv1a1/vYUn1OT1CED8ftbkmmYbKhKGSyMDeJiidLvKRKvZUQOdXwG/wcNY7T1Qb0XTlVdiYjIq00U7pLrQ==
 
 "@types/request@2.48.2":
   version "2.48.2"
