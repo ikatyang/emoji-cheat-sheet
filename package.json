@@ -28,7 +28,7 @@
     "@types/request": "2.48.2",
     "jest": "24.9.0",
     "jest-playback": "2.0.2",
-    "prettier": "1.17.0",
+    "prettier": "1.18.2",
     "tslint": "5.19.0",
     "tslint-plugin-prettier": "2.0.1",
     "typescript": "3.6.2"
