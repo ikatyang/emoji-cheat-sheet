@@ -17,14 +17,12 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "dedent": "^0.7.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
     "@types/cheerio": "0.22.13",
-    "@types/dedent": "0.7.0",
     "@types/jest": "24.0.18",
-    "@types/node": "8.10.53",
+    "@types/node": "12.7.4",
     "@types/request": "2.48.2",
     "jest": "24.9.0",
     "jest-playback": "2.0.2",
@@ -34,6 +32,6 @@
     "typescript": "3.6.2"
   },
   "engines": {
-    "node": ">= 8"
+    "node": ">= 12"
   }
 }
