@@ -6,7 +6,7 @@
     "noEmit": true,
     "resolveJsonModule": true,
     "strict": true,
-    "target": "es2018"
+    "target": "esnext"
   },
   "include": ["scripts/**/*.js"]
 }
