@@ -946,7 +946,6 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :dollar: | `:dollar:` | :euro: | `:euro:` | [top](#table-of-contents) |
 | [top](#objects) | :pound: | `:pound:` | :money_with_wings: | `:money_with_wings:` | [top](#table-of-contents) |
 | [top](#objects) | :credit_card: | `:credit_card:` | :chart: | `:chart:` | [top](#table-of-contents) |
-| [top](#objects) | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` | [top](#table-of-contents) |
 
 #### Mail
 
@@ -1044,6 +1043,9 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Religion](#religion)
 - [Zodiac](#zodiac)
 - [Av Symbol](#av-symbol)
+- [Math](#math)
+- [Punctuation](#punctuation)
+- [Currency](#currency)
 - [Other Symbol](#other-symbol)
 - [Keycap](#keycap)
 - [Alphanum](#alphanum)
@@ -1129,6 +1131,28 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :signal_strength: | `:signal_strength:` | :vibration_mode: | `:vibration_mode:` | [top](#table-of-contents) |
 | [top](#symbols) | :mobile_phone_off: | `:mobile_phone_off:` | | | [top](#table-of-contents) |
 
+#### Math
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :heavy_multiplication_x: | `:heavy_multiplication_x:` | :heavy_plus_sign: | `:heavy_plus_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` | [top](#table-of-contents) |
+
+#### Punctuation
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :bangbang: | `:bangbang:` | :interrobang: | `:interrobang:` | [top](#table-of-contents) |
+| [top](#symbols) | :question: | `:question:` | :grey_question: | `:grey_question:` | [top](#table-of-contents) |
+| [top](#symbols) | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` | [top](#table-of-contents) |
+| [top](#symbols) | :wavy_dash: | `:wavy_dash:` | | | [top](#table-of-contents) |
+
+#### Currency
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` | [top](#table-of-contents) |
+
 #### Other Symbol
 
 | | ico | shortcode | ico | shortcode | |
@@ -1137,18 +1161,12 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#symbols) | :trident: | `:trident:` | :name_badge: | `:name_badge:` | [top](#table-of-contents) |
 | [top](#symbols) | :beginner: | `:beginner:` | :o: | `:o:` | [top](#table-of-contents) |
 | [top](#symbols) | :white_check_mark: | `:white_check_mark:` | :ballot_box_with_check: | `:ballot_box_with_check:` | [top](#table-of-contents) |
-| [top](#symbols) | :heavy_check_mark: | `:heavy_check_mark:` | :heavy_multiplication_x: | `:heavy_multiplication_x:` | [top](#table-of-contents) |
-| [top](#symbols) | :x: | `:x:` | :negative_squared_cross_mark: | `:negative_squared_cross_mark:` | [top](#table-of-contents) |
-| [top](#symbols) | :heavy_plus_sign: | `:heavy_plus_sign:` | :heavy_minus_sign: | `:heavy_minus_sign:` | [top](#table-of-contents) |
-| [top](#symbols) | :heavy_division_sign: | `:heavy_division_sign:` | :curly_loop: | `:curly_loop:` | [top](#table-of-contents) |
+| [top](#symbols) | :heavy_check_mark: | `:heavy_check_mark:` | :x: | `:x:` | [top](#table-of-contents) |
+| [top](#symbols) | :negative_squared_cross_mark: | `:negative_squared_cross_mark:` | :curly_loop: | `:curly_loop:` | [top](#table-of-contents) |
 | [top](#symbols) | :loop: | `:loop:` | :part_alternation_mark: | `:part_alternation_mark:` | [top](#table-of-contents) |
 | [top](#symbols) | :eight_spoked_asterisk: | `:eight_spoked_asterisk:` | :eight_pointed_black_star: | `:eight_pointed_black_star:` | [top](#table-of-contents) |
-| [top](#symbols) | :sparkle: | `:sparkle:` | :bangbang: | `:bangbang:` | [top](#table-of-contents) |
-| [top](#symbols) | :interrobang: | `:interrobang:` | :question: | `:question:` | [top](#table-of-contents) |
-| [top](#symbols) | :grey_question: | `:grey_question:` | :grey_exclamation: | `:grey_exclamation:` | [top](#table-of-contents) |
-| [top](#symbols) | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` | :wavy_dash: | `:wavy_dash:` | [top](#table-of-contents) |
-| [top](#symbols) | :copyright: | `:copyright:` | :registered: | `:registered:` | [top](#table-of-contents) |
-| [top](#symbols) | :tm: | `:tm:` | | | [top](#table-of-contents) |
+| [top](#symbols) | :sparkle: | `:sparkle:` | :copyright: | `:copyright:` | [top](#table-of-contents) |
+| [top](#symbols) | :registered: | `:registered:` | :tm: | `:tm:` | [top](#table-of-contents) |
 
 #### Keycap
 
