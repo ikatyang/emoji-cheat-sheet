@@ -22,7 +22,7 @@ function generateCheatSheet(categorizedGithubEmojiIds) {
   lineTexts.push("");
 
   lineTexts.push(
-    `[![build](https://travis-ci.org/${repository}.svg?branch=master)](https://travis-ci.org/${repository})`
+    `[![Up to Date](https://github.com/${repository}/workflows/Up%20to%20Date/badge.svg)](https://github.com/${repository}/actions?query=workflow%3A%22Up+to+Date%22)`
   );
   lineTexts.push("");
 
