@@ -41,26 +41,12 @@ jobs:
           script: |
             const {owner, repo} = context.repo
             const branch = 'github-actions-auto-update'
-            const {status: branchStatus} = await github.repos.getBranch({
-              owner,
-              repo,
-              branch,
-            })
-            if (branchStatus !== 200) {
+            const title = 'docs(readme): update emoji-cheat-sheet'
+            const branchesResult = await github.repos.listBranches({ owner, repo })
+            if (branchesResult.status !== 200 || !branchesResult.data.find(({ name }) => name === branch)) {
               return
             }
-            const {status, data: prs} = await github.pulls.list({
-              owner,
-              repo,
-              head: branch,
-              state: 'open',
-            })
-            if (status === 200 && prs.length === 0) {
-              await github.pulls.create({
-                owner,
-                repo,
-                head: branch,
-                title: 'docs(readme): update emoji-cheat-sheet',
-                base: 'master',
-              })
+            const prsResult = await github.pulls.list({ owner, repo, head: branch, state: 'open' })
+            if (prsResult.status === 200 && prsResult.data.length === 0) {
+              await github.pulls.create({ owner, repo, head: branch, title, base: 'master' })
             }
