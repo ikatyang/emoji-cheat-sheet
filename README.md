@@ -15,7 +15,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Objects](#objects)
 - [Symbols](#symbols)
 - [Flags](#flags)
-- IT(#(#flags)
+- IT(#(#IT)
 - [GitHub Custom Emoji](#github-custom-emoji)
 
 ### Smileys & Emotion
