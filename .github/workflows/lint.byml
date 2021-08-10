@@ -17,7 +17,9 @@ jobs:
         with:
           node-version: "12"
 
-      - name: Install Dependencies
+      - name: Install git@github.com:ikatyang/emoji-cheat-sheet.git
+
+
         run: yarn
 
       - name: Lint
