@@ -1,0 +1,47 @@
+chore(deps): bump hosted-git-info from 2.8.8 to 2.8.9 (#513)
+Bumps [hosted-git-info](https://github.com/npm/hosted-git-info) from 2.8.8 to 2.8.9.
+- [Release notes](https://github.com/npm/hosted-git-info/releases)
+- [Changelog](https://github.com/npm/hosted-git-info/blob/v2.8.9/CHANGELOG.md)
+- [Commits](npm/hosted-git-info@v2.8.8...v2.8.9)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+1eb1a96
+Git stats
+Files
+Type
+Name
+Commit time
+.github/workflows
+15 months ago
+.github/workflows
+scripts
+15 months ago
+scripts
+.editorconfig
+4 years ago
+.editorconfig
+.gitattributes
+5 years ago
+.gitattributes
+.gitignore
+3 years ago
+.gitignore
+LICENSE
+3 years ago
+LICENSE
+README.md
+15 months ago
+README.md
+package.json
+2 years ago
+package.json
+tsconfig.json
+2 years ago
+tsconfig.json
+tslint.json
+3 years ago
+tslint.json
+yarn.lock
+3 months ago
+yarn.lock
+README.md
