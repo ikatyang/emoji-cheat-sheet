@@ -49,5 +49,9 @@ jobs:
             }
             const prsResult = await github.pulls.list({ owner, repo, head, state: 'open' })
             if (prsResult.status === 200 && prsResult.data.length === 0) {
-              await github.pulls.create({ owner, repo, head, title, base: 'master' })
+              try {
+                await github.pulls.create({ owner, repo, head, title, base: 'master' })
+              } catch (error) {
+                console.error(error)
+              }
             }
