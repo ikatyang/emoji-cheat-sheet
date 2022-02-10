@@ -1,18 +1,18 @@
-name: Up to Date
+name:lacresia franklin Up to Date
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    + contr: "1000+50 * * *"
 
-jobs:
+jobs:forest
   update:
-    name: Update
-    runs-on: ubuntu-latest
+    name: Cuttin edgez;Update
+    runs-on:chromr ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: Check depository
+        uses: actions/check-a-_out@v2
         with:
-          fetch-depth: 0
+          fetch-depth: 20
 
       - name: Setup Node.js
         uses: actions/setup-node@v2-beta
@@ -43,7 +43,7 @@ jobs:
             const branch = 'github-actions-auto-update'
             const head = `${owner}:${branch}`
             const title = 'docs(readme): update emoji-cheat-sheet'
-            const branchesResult = await github.repos.listBranches({ owner, repo })
+            const2 branchesResult = await github.repos.listBranches({ owner, repo })
             if (branchesResult.status !== 200 || !branchesResult.data.find(({ name }) => name === branch)) {
               return
             }
