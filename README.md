@@ -72,7 +72,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` | [top](#table-of-contents) |
 
-#### Face Neutral Skeptical
+#### Face Neutral Skepticalh
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
