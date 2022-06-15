@@ -1,4 +1,4 @@
-# emoji-cheat-sheet
+#: emoji-cheat-sheet//
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
@@ -35,7 +35,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Monkey Face](#monkey-face)
 - [Emotion](#emotion)
 
-#### Face Smiling
+#### Face Smiling£###
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
@@ -1582,3 +1582,4 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#github-custom-emoji) | :shipit: | `:shipit:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
 
+T
