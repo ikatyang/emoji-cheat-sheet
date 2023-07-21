@@ -1,4 +1,3 @@
-const $ = require("cheerio");
 const request = require("request");
 
 /**
@@ -32,41 +31,30 @@ async function getGithubEmojiIdMap() {
 }
 
 async function getUnicodeEmojiCategoryIterator() {
-  return getUnicodeEmojiCategoryIteratorFromHtmlText(
-    await fetch("https://unicode.org/emoji/charts/full-emoji-list.html")
+  return getUnicodeEmojiCategoryIteratorFromText(
+    await fetch("https://unicode.org/emoji/charts/full-emoji-list.txt")
   );
 }
 
 /**
- * @param {string} htmlText
+ * @param {string} text
  */
-function* getUnicodeEmojiCategoryIteratorFromHtmlText(htmlText) {
-  const $html = $.load(htmlText).root();
-  const $trs = $html
-    .find("table")
-    .children()
-    .toArray();
-  for (const $tr of $trs) {
-    if ($tr.firstChild.tagName === "th") {
-      if ($tr.firstChild.attribs.class === "bighead") {
-        const value = $tr.firstChild.firstChild.firstChild.nodeValue;
-        yield { type: "category", value };
-      } else if ($tr.firstChild.attribs.class === "mediumhead") {
-        const value = $tr.firstChild.firstChild.firstChild.nodeValue;
-        yield { type: "subcategory", value };
-      } else {
-        // skip column titles
-      }
-    } else if ($tr.firstChild.tagName === "td") {
-      if ($tr.children[4].attribs.class === "chars") {
-        yield { type: "emoji", value: $tr.children[4].firstChild.nodeValue };
-      } else {
-        throw new Error(`Unexpected situation.`);
-      }
-    } else {
-      throw new Error(
-        `Unexpected tagName ${JSON.stringify($tr.firstChild.tagName)}`
-      );
+function* getUnicodeEmojiCategoryIteratorFromText(text) {
+  const lines = text.split("\n");
+  for (const line of lines) {
+    if (line.startsWith("@@")) {
+      const value = line.substring(2);
+      yield { type: "category", value };
+    } else if (line.startsWith("@")) {
+      const value = line.substring(1);
+      yield { type: "subcategory", value };
+    } else if (line.length) {
+      const value = line
+        .split("\t")[0]
+        .split(" ")
+        .map(_ => String.fromCodePoint(parseInt(_, 16)))
+        .join("");
+      yield { type: "emoji", value };
     }
   }
 }

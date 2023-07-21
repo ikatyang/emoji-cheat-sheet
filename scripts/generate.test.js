@@ -39,6 +39,7 @@ test("emoji-cheat-sheet", async () => {
     - [Face Costume](#face-costume)
     - [Cat Face](#cat-face)
     - [Monkey Face](#monkey-face)
+    - [Heart](#heart)
     - [Emotion](#emotion)
 
     #### Face Smiling
@@ -57,33 +58,37 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#smileys--emotion) | :heart_eyes: | \`:heart_eyes:\` | :kissing_heart: | \`:kissing_heart:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :smiling_face_with_three_hearts: | \`:smiling_face_with_three_hearts:\` | :heart_eyes: | \`:heart_eyes:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :star_struck: | \`:star_struck:\` | :kissing_heart: | \`:kissing_heart:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :kissing: | \`:kissing:\` | :relaxed: | \`:relaxed:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :kissing_closed_eyes: | \`:kissing_closed_eyes:\` | :kissing_smiling_eyes: | \`:kissing_smiling_eyes:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :smiling_face_with_tear: | \`:smiling_face_with_tear:\` | | | [top](#table-of-contents) |
 
     #### Face Tongue
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#smileys--emotion) | :yum: | \`:yum:\` | :stuck_out_tongue: | \`:stuck_out_tongue:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :stuck_out_tongue_winking_eye: | \`:stuck_out_tongue_winking_eye:\` | :stuck_out_tongue_closed_eyes: | \`:stuck_out_tongue_closed_eyes:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :money_mouth_face: | \`:money_mouth_face:\` | | | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :stuck_out_tongue_winking_eye: | \`:stuck_out_tongue_winking_eye:\` | :zany_face: | \`:zany_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :stuck_out_tongue_closed_eyes: | \`:stuck_out_tongue_closed_eyes:\` | :money_mouth_face: | \`:money_mouth_face:\` | [top](#table-of-contents) |
 
     #### Face Hand
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#smileys--emotion) | :hugs: | \`:hugs:\` | :thinking: | \`:thinking:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :hugs: | \`:hugs:\` | :hand_over_mouth: | \`:hand_over_mouth:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :shushing_face: | \`:shushing_face:\` | :thinking: | \`:thinking:\` | [top](#table-of-contents) |
 
     #### Face Neutral Skeptical
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#smileys--emotion) | :zipper_mouth_face: | \`:zipper_mouth_face:\` | :neutral_face: | \`:neutral_face:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :expressionless: | \`:expressionless:\` | :no_mouth: | \`:no_mouth:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :zipper_mouth_face: | \`:zipper_mouth_face:\` | :raised_eyebrow: | \`:raised_eyebrow:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :neutral_face: | \`:neutral_face:\` | :expressionless: | \`:expressionless:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :no_mouth: | \`:no_mouth:\` | :face_in_clouds: | \`:face_in_clouds:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :smirk: | \`:smirk:\` | :unamused: | \`:unamused:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :roll_eyes: | \`:roll_eyes:\` | :grimacing: | \`:grimacing:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :lying_face: | \`:lying_face:\` | | | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :face_exhaling: | \`:face_exhaling:\` | :lying_face: | \`:lying_face:\` | [top](#table-of-contents) |
 
     #### Face Sleepy
 
@@ -99,19 +104,24 @@ test("emoji-cheat-sheet", async () => {
     | - | :-: | - | :-: | - | - |
     | [top](#smileys--emotion) | :mask: | \`:mask:\` | :face_with_thermometer: | \`:face_with_thermometer:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :face_with_head_bandage: | \`:face_with_head_bandage:\` | :nauseated_face: | \`:nauseated_face:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :sneezing_face: | \`:sneezing_face:\` | :dizzy_face: | \`:dizzy_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :vomiting_face: | \`:vomiting_face:\` | :sneezing_face: | \`:sneezing_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :hot_face: | \`:hot_face:\` | :cold_face: | \`:cold_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :woozy_face: | \`:woozy_face:\` | :dizzy_face: | \`:dizzy_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :face_with_spiral_eyes: | \`:face_with_spiral_eyes:\` | :exploding_head: | \`:exploding_head:\` | [top](#table-of-contents) |
 
     #### Face Hat
 
-    | | ico | shortcode | |
-    | - | :-: | - | - |
-    | [top](#smileys--emotion) | :cowboy_hat_face: | \`:cowboy_hat_face:\` | [top](#table-of-contents) |
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#smileys--emotion) | :cowboy_hat_face: | \`:cowboy_hat_face:\` | :partying_face: | \`:partying_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :disguised_face: | \`:disguised_face:\` | | | [top](#table-of-contents) |
 
     #### Face Glasses
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#smileys--emotion) | :sunglasses: | \`:sunglasses:\` | :nerd_face: | \`:nerd_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :monocle_face: | \`:monocle_face:\` | | | [top](#table-of-contents) |
 
     #### Face Concerned
 
@@ -121,22 +131,23 @@ test("emoji-cheat-sheet", async () => {
     | [top](#smileys--emotion) | :slightly_frowning_face: | \`:slightly_frowning_face:\` | :frowning_face: | \`:frowning_face:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :open_mouth: | \`:open_mouth:\` | :hushed: | \`:hushed:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :astonished: | \`:astonished:\` | :flushed: | \`:flushed:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :frowning: | \`:frowning:\` | :anguished: | \`:anguished:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :fearful: | \`:fearful:\` | :cold_sweat: | \`:cold_sweat:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :disappointed_relieved: | \`:disappointed_relieved:\` | :cry: | \`:cry:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :sob: | \`:sob:\` | :scream: | \`:scream:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :confounded: | \`:confounded:\` | :persevere: | \`:persevere:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :disappointed: | \`:disappointed:\` | :sweat: | \`:sweat:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :weary: | \`:weary:\` | :tired_face: | \`:tired_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :pleading_face: | \`:pleading_face:\` | :frowning: | \`:frowning:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :anguished: | \`:anguished:\` | :fearful: | \`:fearful:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :cold_sweat: | \`:cold_sweat:\` | :disappointed_relieved: | \`:disappointed_relieved:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :cry: | \`:cry:\` | :sob: | \`:sob:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :scream: | \`:scream:\` | :confounded: | \`:confounded:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :persevere: | \`:persevere:\` | :disappointed: | \`:disappointed:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :sweat: | \`:sweat:\` | :weary: | \`:weary:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :tired_face: | \`:tired_face:\` | :yawning_face: | \`:yawning_face:\` | [top](#table-of-contents) |
 
     #### Face Negative
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#smileys--emotion) | :triumph: | \`:triumph:\` | :pout: | \`:pout:\` <br /> \`:rage:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :angry: | \`:angry:\` | :smiling_imp: | \`:smiling_imp:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :imp: | \`:imp:\` | :skull: | \`:skull:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :skull_and_crossbones: | \`:skull_and_crossbones:\` | | | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :angry: | \`:angry:\` | :cursing_face: | \`:cursing_face:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :smiling_imp: | \`:smiling_imp:\` | :imp: | \`:imp:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :skull: | \`:skull:\` | :skull_and_crossbones: | \`:skull_and_crossbones:\` | [top](#table-of-contents) |
 
     #### Face Costume
 
@@ -164,26 +175,33 @@ test("emoji-cheat-sheet", async () => {
     | [top](#smileys--emotion) | :see_no_evil: | \`:see_no_evil:\` | :hear_no_evil: | \`:hear_no_evil:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :speak_no_evil: | \`:speak_no_evil:\` | | | [top](#table-of-contents) |
 
+    #### Heart
+
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#smileys--emotion) | :love_letter: | \`:love_letter:\` | :cupid: | \`:cupid:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :gift_heart: | \`:gift_heart:\` | :sparkling_heart: | \`:sparkling_heart:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :heartpulse: | \`:heartpulse:\` | :heartbeat: | \`:heartbeat:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :revolving_hearts: | \`:revolving_hearts:\` | :two_hearts: | \`:two_hearts:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :heart_decoration: | \`:heart_decoration:\` | :heavy_heart_exclamation: | \`:heavy_heart_exclamation:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :broken_heart: | \`:broken_heart:\` | :heart_on_fire: | \`:heart_on_fire:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :mending_heart: | \`:mending_heart:\` | :heart: | \`:heart:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :orange_heart: | \`:orange_heart:\` | :yellow_heart: | \`:yellow_heart:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :green_heart: | \`:green_heart:\` | :blue_heart: | \`:blue_heart:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :purple_heart: | \`:purple_heart:\` | :brown_heart: | \`:brown_heart:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :black_heart: | \`:black_heart:\` | :white_heart: | \`:white_heart:\` | [top](#table-of-contents) |
+
     #### Emotion
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#smileys--emotion) | :kiss: | \`:kiss:\` | :love_letter: | \`:love_letter:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :cupid: | \`:cupid:\` | :gift_heart: | \`:gift_heart:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :sparkling_heart: | \`:sparkling_heart:\` | :heartpulse: | \`:heartpulse:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :heartbeat: | \`:heartbeat:\` | :revolving_hearts: | \`:revolving_hearts:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :two_hearts: | \`:two_hearts:\` | :heart_decoration: | \`:heart_decoration:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :heavy_heart_exclamation: | \`:heavy_heart_exclamation:\` | :broken_heart: | \`:broken_heart:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :heart: | \`:heart:\` | :yellow_heart: | \`:yellow_heart:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :green_heart: | \`:green_heart:\` | :blue_heart: | \`:blue_heart:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :purple_heart: | \`:purple_heart:\` | :black_heart: | \`:black_heart:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :100: | \`:100:\` | :anger: | \`:anger:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :boom: | \`:boom:\` <br /> \`:collision:\` | :dizzy: | \`:dizzy:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :sweat_drops: | \`:sweat_drops:\` | :dash: | \`:dash:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :hole: | \`:hole:\` | :bomb: | \`:bomb:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :kiss: | \`:kiss:\` | :100: | \`:100:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :anger: | \`:anger:\` | :boom: | \`:boom:\` <br /> \`:collision:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :dizzy: | \`:dizzy:\` | :sweat_drops: | \`:sweat_drops:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :dash: | \`:dash:\` | :hole: | \`:hole:\` | [top](#table-of-contents) |
     | [top](#smileys--emotion) | :speech_balloon: | \`:speech_balloon:\` | :eye_speech_bubble: | \`:eye_speech_bubble:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :right_anger_bubble: | \`:right_anger_bubble:\` | :thought_balloon: | \`:thought_balloon:\` | [top](#table-of-contents) |
-    | [top](#smileys--emotion) | :zzz: | \`:zzz:\` | | | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :left_speech_bubble: | \`:left_speech_bubble:\` | :right_anger_bubble: | \`:right_anger_bubble:\` | [top](#table-of-contents) |
+    | [top](#smileys--emotion) | :thought_balloon: | \`:thought_balloon:\` | :zzz: | \`:zzz:\` | [top](#table-of-contents) |
 
     ### People & Body
 
@@ -216,9 +234,10 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :ok_hand: | \`:ok_hand:\` | :v: | \`:v:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :crossed_fingers: | \`:crossed_fingers:\` | :metal: | \`:metal:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :call_me_hand: | \`:call_me_hand:\` | | | [top](#table-of-contents) |
+    | [top](#people--body) | :ok_hand: | \`:ok_hand:\` | :pinched_fingers: | \`:pinched_fingers:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :pinching_hand: | \`:pinching_hand:\` | :v: | \`:v:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :crossed_fingers: | \`:crossed_fingers:\` | :love_you_gesture: | \`:love_you_gesture:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :metal: | \`:metal:\` | :call_me_hand: | \`:call_me_hand:\` | [top](#table-of-contents) |
 
     #### Hand Single Finger
 
@@ -241,8 +260,8 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#people--body) | :clap: | \`:clap:\` | :raised_hands: | \`:raised_hands:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :open_hands: | \`:open_hands:\` | :handshake: | \`:handshake:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :pray: | \`:pray:\` | | | [top](#table-of-contents) |
+    | [top](#people--body) | :open_hands: | \`:open_hands:\` | :palms_up_together: | \`:palms_up_together:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :handshake: | \`:handshake:\` | :pray: | \`:pray:\` | [top](#table-of-contents) |
 
     #### Hand Prop
 
@@ -255,8 +274,13 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :muscle: | \`:muscle:\` | :ear: | \`:ear:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :nose: | \`:nose:\` | :eyes: | \`:eyes:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :muscle: | \`:muscle:\` | :mechanical_arm: | \`:mechanical_arm:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :mechanical_leg: | \`:mechanical_leg:\` | :leg: | \`:leg:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :foot: | \`:foot:\` | :ear: | \`:ear:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :ear_with_hearing_aid: | \`:ear_with_hearing_aid:\` | :nose: | \`:nose:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :brain: | \`:brain:\` | :anatomical_heart: | \`:anatomical_heart:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :lungs: | \`:lungs:\` | :tooth: | \`:tooth:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :bone: | \`:bone:\` | :eyes: | \`:eyes:\` | [top](#table-of-contents) |
     | [top](#people--body) | :eye: | \`:eye:\` | :tongue: | \`:tongue:\` | [top](#table-of-contents) |
     | [top](#people--body) | :lips: | \`:lips:\` | | | [top](#table-of-contents) |
 
@@ -264,73 +288,131 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :baby: | \`:baby:\` | :boy: | \`:boy:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :girl: | \`:girl:\` | :blonde_man: | \`:blonde_man:\` <br /> \`:person_with_blond_hair:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man: | \`:man:\` | :woman: | \`:woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :blonde_woman: | \`:blonde_woman:\` | :older_man: | \`:older_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :older_woman: | \`:older_woman:\` | | | [top](#table-of-contents) |
+    | [top](#people--body) | :baby: | \`:baby:\` | :child: | \`:child:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :boy: | \`:boy:\` | :girl: | \`:girl:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :adult: | \`:adult:\` | :blond_haired_person: | \`:blond_haired_person:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man: | \`:man:\` | :bearded_person: | \`:bearded_person:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man_beard: | \`:man_beard:\` | :woman_beard: | \`:woman_beard:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :red_haired_man: | \`:red_haired_man:\` | :curly_haired_man: | \`:curly_haired_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :white_haired_man: | \`:white_haired_man:\` | :bald_man: | \`:bald_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman: | \`:woman:\` | :red_haired_woman: | \`:red_haired_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_red_hair: | \`:person_red_hair:\` | :curly_haired_woman: | \`:curly_haired_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_curly_hair: | \`:person_curly_hair:\` | :white_haired_woman: | \`:white_haired_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_white_hair: | \`:person_white_hair:\` | :bald_woman: | \`:bald_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_bald: | \`:person_bald:\` | :blond_haired_woman: | \`:blond_haired_woman:\` <br /> \`:blonde_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :blond_haired_man: | \`:blond_haired_man:\` | :older_adult: | \`:older_adult:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :older_man: | \`:older_man:\` | :older_woman: | \`:older_woman:\` | [top](#table-of-contents) |
 
     #### Person Gesture
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :frowning_woman: | \`:frowning_woman:\` <br /> \`:person_frowning:\` | :frowning_man: | \`:frowning_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :person_with_pouting_face: | \`:person_with_pouting_face:\` <br /> \`:pouting_woman:\` | :pouting_man: | \`:pouting_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :ng_woman: | \`:ng_woman:\` <br /> \`:no_good:\` <br /> \`:no_good_woman:\` | :ng_man: | \`:ng_man:\` <br /> \`:no_good_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :ok_woman: | \`:ok_woman:\` | :ok_man: | \`:ok_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :information_desk_person: | \`:information_desk_person:\` <br /> \`:sassy_woman:\` <br /> \`:tipping_hand_woman:\` | :sassy_man: | \`:sassy_man:\` <br /> \`:tipping_hand_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :raising_hand: | \`:raising_hand:\` <br /> \`:raising_hand_woman:\` | :raising_hand_man: | \`:raising_hand_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :bow: | \`:bow:\` <br /> \`:bowing_man:\` | :bowing_woman: | \`:bowing_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_facepalming: | \`:man_facepalming:\` | :woman_facepalming: | \`:woman_facepalming:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :frowning_person: | \`:frowning_person:\` | :frowning_man: | \`:frowning_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :frowning_woman: | \`:frowning_woman:\` | :pouting_face: | \`:pouting_face:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :pouting_man: | \`:pouting_man:\` | :pouting_woman: | \`:pouting_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :no_good: | \`:no_good:\` | :ng_man: | \`:ng_man:\` <br /> \`:no_good_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :ng_woman: | \`:ng_woman:\` <br /> \`:no_good_woman:\` | :ok_person: | \`:ok_person:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :ok_man: | \`:ok_man:\` | :ok_woman: | \`:ok_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :information_desk_person: | \`:information_desk_person:\` <br /> \`:tipping_hand_person:\` | :sassy_man: | \`:sassy_man:\` <br /> \`:tipping_hand_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :sassy_woman: | \`:sassy_woman:\` <br /> \`:tipping_hand_woman:\` | :raising_hand: | \`:raising_hand:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :raising_hand_man: | \`:raising_hand_man:\` | :raising_hand_woman: | \`:raising_hand_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :deaf_person: | \`:deaf_person:\` | :deaf_man: | \`:deaf_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :deaf_woman: | \`:deaf_woman:\` | :bow: | \`:bow:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :bowing_man: | \`:bowing_man:\` | :bowing_woman: | \`:bowing_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :facepalm: | \`:facepalm:\` | :man_facepalming: | \`:man_facepalming:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_facepalming: | \`:woman_facepalming:\` | :shrug: | \`:shrug:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_shrugging: | \`:man_shrugging:\` | :woman_shrugging: | \`:woman_shrugging:\` | [top](#table-of-contents) |
 
     #### Person Role
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :man_health_worker: | \`:man_health_worker:\` | :woman_health_worker: | \`:woman_health_worker:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :health_worker: | \`:health_worker:\` | :man_health_worker: | \`:man_health_worker:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_health_worker: | \`:woman_health_worker:\` | :student: | \`:student:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_student: | \`:man_student:\` | :woman_student: | \`:woman_student:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_teacher: | \`:man_teacher:\` | :woman_teacher: | \`:woman_teacher:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :teacher: | \`:teacher:\` | :man_teacher: | \`:man_teacher:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_teacher: | \`:woman_teacher:\` | :judge: | \`:judge:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_judge: | \`:man_judge:\` | :woman_judge: | \`:woman_judge:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_farmer: | \`:man_farmer:\` | :woman_farmer: | \`:woman_farmer:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :farmer: | \`:farmer:\` | :man_farmer: | \`:man_farmer:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_farmer: | \`:woman_farmer:\` | :cook: | \`:cook:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_cook: | \`:man_cook:\` | :woman_cook: | \`:woman_cook:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_mechanic: | \`:man_mechanic:\` | :woman_mechanic: | \`:woman_mechanic:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :mechanic: | \`:mechanic:\` | :man_mechanic: | \`:man_mechanic:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_mechanic: | \`:woman_mechanic:\` | :factory_worker: | \`:factory_worker:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_factory_worker: | \`:man_factory_worker:\` | :woman_factory_worker: | \`:woman_factory_worker:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_office_worker: | \`:man_office_worker:\` | :woman_office_worker: | \`:woman_office_worker:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :office_worker: | \`:office_worker:\` | :man_office_worker: | \`:man_office_worker:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_office_worker: | \`:woman_office_worker:\` | :scientist: | \`:scientist:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_scientist: | \`:man_scientist:\` | :woman_scientist: | \`:woman_scientist:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_technologist: | \`:man_technologist:\` | :woman_technologist: | \`:woman_technologist:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :technologist: | \`:technologist:\` | :man_technologist: | \`:man_technologist:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_technologist: | \`:woman_technologist:\` | :singer: | \`:singer:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_singer: | \`:man_singer:\` | :woman_singer: | \`:woman_singer:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_artist: | \`:man_artist:\` | :woman_artist: | \`:woman_artist:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :artist: | \`:artist:\` | :man_artist: | \`:man_artist:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_artist: | \`:woman_artist:\` | :pilot: | \`:pilot:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_pilot: | \`:man_pilot:\` | :woman_pilot: | \`:woman_pilot:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_astronaut: | \`:man_astronaut:\` | :woman_astronaut: | \`:woman_astronaut:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :astronaut: | \`:astronaut:\` | :man_astronaut: | \`:man_astronaut:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_astronaut: | \`:woman_astronaut:\` | :firefighter: | \`:firefighter:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_firefighter: | \`:man_firefighter:\` | :woman_firefighter: | \`:woman_firefighter:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :cop: | \`:cop:\` <br /> \`:policeman:\` | :policewoman: | \`:policewoman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :detective: | \`:detective:\` <br /> \`:male_detective:\` | :female_detective: | \`:female_detective:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :guardsman: | \`:guardsman:\` | :guardswoman: | \`:guardswoman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :construction_worker: | \`:construction_worker:\` <br /> \`:construction_worker_man:\` | :construction_worker_woman: | \`:construction_worker_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :prince: | \`:prince:\` | :princess: | \`:princess:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :cop: | \`:cop:\` <br /> \`:police_officer:\` | :policeman: | \`:policeman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :policewoman: | \`:policewoman:\` | :detective: | \`:detective:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :male_detective: | \`:male_detective:\` | :female_detective: | \`:female_detective:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :guard: | \`:guard:\` | :guardsman: | \`:guardsman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :guardswoman: | \`:guardswoman:\` | :ninja: | \`:ninja:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :construction_worker: | \`:construction_worker:\` | :construction_worker_man: | \`:construction_worker_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :construction_worker_woman: | \`:construction_worker_woman:\` | :prince: | \`:prince:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :princess: | \`:princess:\` | :person_with_turban: | \`:person_with_turban:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_with_turban: | \`:man_with_turban:\` | :woman_with_turban: | \`:woman_with_turban:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_with_gua_pi_mao: | \`:man_with_gua_pi_mao:\` | :man_in_tuxedo: | \`:man_in_tuxedo:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :bride_with_veil: | \`:bride_with_veil:\` | :pregnant_woman: | \`:pregnant_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man_with_gua_pi_mao: | \`:man_with_gua_pi_mao:\` | :woman_with_headscarf: | \`:woman_with_headscarf:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_in_tuxedo: | \`:person_in_tuxedo:\` | :man_in_tuxedo: | \`:man_in_tuxedo:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_in_tuxedo: | \`:woman_in_tuxedo:\` | :person_with_veil: | \`:person_with_veil:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man_with_veil: | \`:man_with_veil:\` | :bride_with_veil: | \`:bride_with_veil:\` <br /> \`:woman_with_veil:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :pregnant_woman: | \`:pregnant_woman:\` | :breast_feeding: | \`:breast_feeding:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_feeding_baby: | \`:woman_feeding_baby:\` | :man_feeding_baby: | \`:man_feeding_baby:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_feeding_baby: | \`:person_feeding_baby:\` | | | [top](#table-of-contents) |
 
     #### Person Fantasy
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#people--body) | :angel: | \`:angel:\` | :santa: | \`:santa:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :mrs_claus: | \`:mrs_claus:\` | | | [top](#table-of-contents) |
+    | [top](#people--body) | :mrs_claus: | \`:mrs_claus:\` | :mx_claus: | \`:mx_claus:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :superhero: | \`:superhero:\` | :superhero_man: | \`:superhero_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :superhero_woman: | \`:superhero_woman:\` | :supervillain: | \`:supervillain:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :supervillain_man: | \`:supervillain_man:\` | :supervillain_woman: | \`:supervillain_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :mage: | \`:mage:\` | :mage_man: | \`:mage_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :mage_woman: | \`:mage_woman:\` | :fairy: | \`:fairy:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :fairy_man: | \`:fairy_man:\` | :fairy_woman: | \`:fairy_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :vampire: | \`:vampire:\` | :vampire_man: | \`:vampire_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :vampire_woman: | \`:vampire_woman:\` | :merperson: | \`:merperson:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :merman: | \`:merman:\` | :mermaid: | \`:mermaid:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :elf: | \`:elf:\` | :elf_man: | \`:elf_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :elf_woman: | \`:elf_woman:\` | :genie: | \`:genie:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :genie_man: | \`:genie_man:\` | :genie_woman: | \`:genie_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :zombie: | \`:zombie:\` | :zombie_man: | \`:zombie_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :zombie_woman: | \`:zombie_woman:\` | | | [top](#table-of-contents) |
 
     #### Person Activity
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :massage: | \`:massage:\` <br /> \`:massage_woman:\` | :massage_man: | \`:massage_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :haircut: | \`:haircut:\` <br /> \`:haircut_woman:\` | :haircut_man: | \`:haircut_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :walking: | \`:walking:\` <br /> \`:walking_man:\` | :walking_woman: | \`:walking_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :runner: | \`:runner:\` <br /> \`:running:\` <br /> \`:running_man:\` | :running_woman: | \`:running_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :dancer: | \`:dancer:\` | :man_dancing: | \`:man_dancing:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :business_suit_levitating: | \`:business_suit_levitating:\` | :dancers: | \`:dancers:\` <br /> \`:dancing_women:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :dancing_men: | \`:dancing_men:\` | | | [top](#table-of-contents) |
+    | [top](#people--body) | :massage: | \`:massage:\` | :massage_man: | \`:massage_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :massage_woman: | \`:massage_woman:\` | :haircut: | \`:haircut:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :haircut_man: | \`:haircut_man:\` | :haircut_woman: | \`:haircut_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :walking: | \`:walking:\` | :walking_man: | \`:walking_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :walking_woman: | \`:walking_woman:\` | :standing_person: | \`:standing_person:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :standing_man: | \`:standing_man:\` | :standing_woman: | \`:standing_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :kneeling_person: | \`:kneeling_person:\` | :kneeling_man: | \`:kneeling_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :kneeling_woman: | \`:kneeling_woman:\` | :person_with_probing_cane: | \`:person_with_probing_cane:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man_with_probing_cane: | \`:man_with_probing_cane:\` | :woman_with_probing_cane: | \`:woman_with_probing_cane:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :person_in_motorized_wheelchair: | \`:person_in_motorized_wheelchair:\` | :man_in_motorized_wheelchair: | \`:man_in_motorized_wheelchair:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_in_motorized_wheelchair: | \`:woman_in_motorized_wheelchair:\` | :person_in_manual_wheelchair: | \`:person_in_manual_wheelchair:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man_in_manual_wheelchair: | \`:man_in_manual_wheelchair:\` | :woman_in_manual_wheelchair: | \`:woman_in_manual_wheelchair:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :runner: | \`:runner:\` <br /> \`:running:\` | :running_man: | \`:running_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :running_woman: | \`:running_woman:\` | :dancer: | \`:dancer:\` <br /> \`:woman_dancing:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :man_dancing: | \`:man_dancing:\` | :business_suit_levitating: | \`:business_suit_levitating:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :dancers: | \`:dancers:\` | :dancing_men: | \`:dancing_men:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :dancing_women: | \`:dancing_women:\` | :sauna_person: | \`:sauna_person:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :sauna_man: | \`:sauna_man:\` | :sauna_woman: | \`:sauna_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :climbing: | \`:climbing:\` | :climbing_man: | \`:climbing_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :climbing_woman: | \`:climbing_woman:\` | | | [top](#table-of-contents) |
 
     #### Person Sport
 
@@ -338,35 +420,46 @@ test("emoji-cheat-sheet", async () => {
     | - | :-: | - | :-: | - | - |
     | [top](#people--body) | :person_fencing: | \`:person_fencing:\` | :horse_racing: | \`:horse_racing:\` | [top](#table-of-contents) |
     | [top](#people--body) | :skier: | \`:skier:\` | :snowboarder: | \`:snowboarder:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :golfing_man: | \`:golfing_man:\` | :golfing_woman: | \`:golfing_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :surfer: | \`:surfer:\` <br /> \`:surfing_man:\` | :surfing_woman: | \`:surfing_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :rowboat: | \`:rowboat:\` <br /> \`:rowing_man:\` | :rowing_woman: | \`:rowing_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :swimmer: | \`:swimmer:\` <br /> \`:swimming_man:\` | :swimming_woman: | \`:swimming_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :basketball_man: | \`:basketball_man:\` | :basketball_woman: | \`:basketball_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :golfing: | \`:golfing:\` | :golfing_man: | \`:golfing_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :golfing_woman: | \`:golfing_woman:\` | :surfer: | \`:surfer:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :surfing_man: | \`:surfing_man:\` | :surfing_woman: | \`:surfing_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :rowboat: | \`:rowboat:\` | :rowing_man: | \`:rowing_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :rowing_woman: | \`:rowing_woman:\` | :swimmer: | \`:swimmer:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :swimming_man: | \`:swimming_man:\` | :swimming_woman: | \`:swimming_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :bouncing_ball_person: | \`:bouncing_ball_person:\` | :basketball_man: | \`:basketball_man:\` <br /> \`:bouncing_ball_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :basketball_woman: | \`:basketball_woman:\` <br /> \`:bouncing_ball_woman:\` | :weight_lifting: | \`:weight_lifting:\` | [top](#table-of-contents) |
     | [top](#people--body) | :weight_lifting_man: | \`:weight_lifting_man:\` | :weight_lifting_woman: | \`:weight_lifting_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :bicyclist: | \`:bicyclist:\` <br /> \`:biking_man:\` | :biking_woman: | \`:biking_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :mountain_bicyclist: | \`:mountain_bicyclist:\` <br /> \`:mountain_biking_man:\` | :mountain_biking_woman: | \`:mountain_biking_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_cartwheeling: | \`:man_cartwheeling:\` | :woman_cartwheeling: | \`:woman_cartwheeling:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :bicyclist: | \`:bicyclist:\` | :biking_man: | \`:biking_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :biking_woman: | \`:biking_woman:\` | :mountain_bicyclist: | \`:mountain_bicyclist:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :mountain_biking_man: | \`:mountain_biking_man:\` | :mountain_biking_woman: | \`:mountain_biking_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :cartwheeling: | \`:cartwheeling:\` | :man_cartwheeling: | \`:man_cartwheeling:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_cartwheeling: | \`:woman_cartwheeling:\` | :wrestling: | \`:wrestling:\` | [top](#table-of-contents) |
     | [top](#people--body) | :men_wrestling: | \`:men_wrestling:\` | :women_wrestling: | \`:women_wrestling:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_playing_water_polo: | \`:man_playing_water_polo:\` | :woman_playing_water_polo: | \`:woman_playing_water_polo:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :water_polo: | \`:water_polo:\` | :man_playing_water_polo: | \`:man_playing_water_polo:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_playing_water_polo: | \`:woman_playing_water_polo:\` | :handball_person: | \`:handball_person:\` | [top](#table-of-contents) |
     | [top](#people--body) | :man_playing_handball: | \`:man_playing_handball:\` | :woman_playing_handball: | \`:woman_playing_handball:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :man_juggling: | \`:man_juggling:\` | :woman_juggling: | \`:woman_juggling:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :juggling_person: | \`:juggling_person:\` | :man_juggling: | \`:man_juggling:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :woman_juggling: | \`:woman_juggling:\` | | | [top](#table-of-contents) |
 
     #### Person Resting
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :bath: | \`:bath:\` | :sleeping_bed: | \`:sleeping_bed:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :lotus_position: | \`:lotus_position:\` | :lotus_position_man: | \`:lotus_position_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :lotus_position_woman: | \`:lotus_position_woman:\` | :bath: | \`:bath:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :sleeping_bed: | \`:sleeping_bed:\` | | | [top](#table-of-contents) |
 
     #### Family
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#people--body) | :two_women_holding_hands: | \`:two_women_holding_hands:\` | :couple: | \`:couple:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :two_men_holding_hands: | \`:two_men_holding_hands:\` | :couplekiss_man_woman: | \`:couplekiss_man_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :people_holding_hands: | \`:people_holding_hands:\` | :two_women_holding_hands: | \`:two_women_holding_hands:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :couple: | \`:couple:\` | :two_men_holding_hands: | \`:two_men_holding_hands:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :couplekiss: | \`:couplekiss:\` | :couplekiss_man_woman: | \`:couplekiss_man_woman:\` | [top](#table-of-contents) |
     | [top](#people--body) | :couplekiss_man_man: | \`:couplekiss_man_man:\` | :couplekiss_woman_woman: | \`:couplekiss_woman_woman:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :couple_with_heart: | \`:couple_with_heart:\` <br /> \`:couple_with_heart_woman_man:\` | :couple_with_heart_man_man: | \`:couple_with_heart_man_man:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :couple_with_heart_woman_woman: | \`:couple_with_heart_woman_woman:\` | :family: | \`:family:\` <br /> \`:family_man_woman_boy:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :couple_with_heart: | \`:couple_with_heart:\` | :couple_with_heart_woman_man: | \`:couple_with_heart_woman_man:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :couple_with_heart_man_man: | \`:couple_with_heart_man_man:\` | :couple_with_heart_woman_woman: | \`:couple_with_heart_woman_woman:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :family: | \`:family:\` | :family_man_woman_boy: | \`:family_man_woman_boy:\` | [top](#table-of-contents) |
     | [top](#people--body) | :family_man_woman_girl: | \`:family_man_woman_girl:\` | :family_man_woman_girl_boy: | \`:family_man_woman_girl_boy:\` | [top](#table-of-contents) |
     | [top](#people--body) | :family_man_woman_boy_boy: | \`:family_man_woman_boy_boy:\` | :family_man_woman_girl_girl: | \`:family_man_woman_girl_girl:\` | [top](#table-of-contents) |
     | [top](#people--body) | :family_man_man_boy: | \`:family_man_man_boy:\` | :family_man_man_girl: | \`:family_man_man_girl:\` | [top](#table-of-contents) |
@@ -385,7 +478,8 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#people--body) | :speaking_head: | \`:speaking_head:\` | :bust_in_silhouette: | \`:bust_in_silhouette:\` | [top](#table-of-contents) |
-    | [top](#people--body) | :busts_in_silhouette: | \`:busts_in_silhouette:\` | :footprints: | \`:footprints:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :busts_in_silhouette: | \`:busts_in_silhouette:\` | :people_hugging: | \`:people_hugging:\` | [top](#table-of-contents) |
+    | [top](#people--body) | :footprints: | \`:footprints:\` | | | [top](#table-of-contents) |
 
     ### Animals & Nature
 
@@ -403,28 +497,37 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#animals--nature) | :monkey_face: | \`:monkey_face:\` | :monkey: | \`:monkey:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :gorilla: | \`:gorilla:\` | :dog: | \`:dog:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :dog2: | \`:dog2:\` | :poodle: | \`:poodle:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :wolf: | \`:wolf:\` | :fox_face: | \`:fox_face:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :gorilla: | \`:gorilla:\` | :orangutan: | \`:orangutan:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :dog: | \`:dog:\` | :dog2: | \`:dog2:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :guide_dog: | \`:guide_dog:\` | :service_dog: | \`:service_dog:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :poodle: | \`:poodle:\` | :wolf: | \`:wolf:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :fox_face: | \`:fox_face:\` | :raccoon: | \`:raccoon:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :cat: | \`:cat:\` | :cat2: | \`:cat2:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :lion: | \`:lion:\` | :tiger: | \`:tiger:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :tiger2: | \`:tiger2:\` | :leopard: | \`:leopard:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :horse: | \`:horse:\` | :racehorse: | \`:racehorse:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :unicorn: | \`:unicorn:\` | :deer: | \`:deer:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :cow: | \`:cow:\` | :ox: | \`:ox:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :water_buffalo: | \`:water_buffalo:\` | :cow2: | \`:cow2:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :pig: | \`:pig:\` | :pig2: | \`:pig2:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :boar: | \`:boar:\` | :pig_nose: | \`:pig_nose:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :ram: | \`:ram:\` | :sheep: | \`:sheep:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :goat: | \`:goat:\` | :dromedary_camel: | \`:dromedary_camel:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :camel: | \`:camel:\` | :elephant: | \`:elephant:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :rhinoceros: | \`:rhinoceros:\` | :mouse: | \`:mouse:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :mouse2: | \`:mouse2:\` | :rat: | \`:rat:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :hamster: | \`:hamster:\` | :rabbit: | \`:rabbit:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :rabbit2: | \`:rabbit2:\` | :chipmunk: | \`:chipmunk:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :bat: | \`:bat:\` | :bear: | \`:bear:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :black_cat: | \`:black_cat:\` | :lion: | \`:lion:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :tiger: | \`:tiger:\` | :tiger2: | \`:tiger2:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :leopard: | \`:leopard:\` | :horse: | \`:horse:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :racehorse: | \`:racehorse:\` | :unicorn: | \`:unicorn:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :zebra: | \`:zebra:\` | :deer: | \`:deer:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :bison: | \`:bison:\` | :cow: | \`:cow:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :ox: | \`:ox:\` | :water_buffalo: | \`:water_buffalo:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :cow2: | \`:cow2:\` | :pig: | \`:pig:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :pig2: | \`:pig2:\` | :boar: | \`:boar:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :pig_nose: | \`:pig_nose:\` | :ram: | \`:ram:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :sheep: | \`:sheep:\` | :goat: | \`:goat:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :dromedary_camel: | \`:dromedary_camel:\` | :camel: | \`:camel:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :llama: | \`:llama:\` | :giraffe: | \`:giraffe:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :elephant: | \`:elephant:\` | :mammoth: | \`:mammoth:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :rhinoceros: | \`:rhinoceros:\` | :hippopotamus: | \`:hippopotamus:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :mouse: | \`:mouse:\` | :mouse2: | \`:mouse2:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :rat: | \`:rat:\` | :hamster: | \`:hamster:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :rabbit: | \`:rabbit:\` | :rabbit2: | \`:rabbit2:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :chipmunk: | \`:chipmunk:\` | :beaver: | \`:beaver:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :hedgehog: | \`:hedgehog:\` | :bat: | \`:bat:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :bear: | \`:bear:\` | :polar_bear: | \`:polar_bear:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :koala: | \`:koala:\` | :panda_face: | \`:panda_face:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :feet: | \`:feet:\` <br /> \`:paw_prints:\` | | | [top](#table-of-contents) |
+    | [top](#animals--nature) | :sloth: | \`:sloth:\` | :otter: | \`:otter:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :skunk: | \`:skunk:\` | :kangaroo: | \`:kangaroo:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :badger: | \`:badger:\` | :feet: | \`:feet:\` <br /> \`:paw_prints:\` | [top](#table-of-contents) |
 
     #### Animal Bird
 
@@ -435,7 +538,10 @@ test("emoji-cheat-sheet", async () => {
     | [top](#animals--nature) | :baby_chick: | \`:baby_chick:\` | :hatched_chick: | \`:hatched_chick:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :bird: | \`:bird:\` | :penguin: | \`:penguin:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :dove: | \`:dove:\` | :eagle: | \`:eagle:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :duck: | \`:duck:\` | :owl: | \`:owl:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :duck: | \`:duck:\` | :swan: | \`:swan:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :owl: | \`:owl:\` | :dodo: | \`:dodo:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :feather: | \`:feather:\` | :flamingo: | \`:flamingo:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :peacock: | \`:peacock:\` | :parrot: | \`:parrot:\` | [top](#table-of-contents) |
 
     #### Animal Amphibian
 
@@ -450,16 +556,17 @@ test("emoji-cheat-sheet", async () => {
     | [top](#animals--nature) | :crocodile: | \`:crocodile:\` | :turtle: | \`:turtle:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :lizard: | \`:lizard:\` | :snake: | \`:snake:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :dragon_face: | \`:dragon_face:\` | :dragon: | \`:dragon:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :sauropod: | \`:sauropod:\` | :t-rex: | \`:t-rex:\` | [top](#table-of-contents) |
 
     #### Animal Marine
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#animals--nature) | :whale: | \`:whale:\` | :whale2: | \`:whale2:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :dolphin: | \`:dolphin:\` <br /> \`:flipper:\` | :fish: | \`:fish:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :tropical_fish: | \`:tropical_fish:\` | :blowfish: | \`:blowfish:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :shark: | \`:shark:\` | :octopus: | \`:octopus:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :shell: | \`:shell:\` | | | [top](#table-of-contents) |
+    | [top](#animals--nature) | :dolphin: | \`:dolphin:\` <br /> \`:flipper:\` | :seal: | \`:seal:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :fish: | \`:fish:\` | :tropical_fish: | \`:tropical_fish:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :blowfish: | \`:blowfish:\` | :shark: | \`:shark:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :octopus: | \`:octopus:\` | :shell: | \`:shell:\` | [top](#table-of-contents) |
 
     #### Animal Bug
 
@@ -468,8 +575,11 @@ test("emoji-cheat-sheet", async () => {
     | [top](#animals--nature) | :snail: | \`:snail:\` | :butterfly: | \`:butterfly:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :bug: | \`:bug:\` | :ant: | \`:ant:\` | [top](#table-of-contents) |
     | [top](#animals--nature) | :bee: | \`:bee:\` <br /> \`:honeybee:\` | :beetle: | \`:beetle:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :spider: | \`:spider:\` | :spider_web: | \`:spider_web:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :scorpion: | \`:scorpion:\` | | | [top](#table-of-contents) |
+    | [top](#animals--nature) | :lady_beetle: | \`:lady_beetle:\` | :cricket: | \`:cricket:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :cockroach: | \`:cockroach:\` | :spider: | \`:spider:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :spider_web: | \`:spider_web:\` | :scorpion: | \`:scorpion:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :mosquito: | \`:mosquito:\` | :fly: | \`:fly:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :worm: | \`:worm:\` | :microbe: | \`:microbe:\` | [top](#table-of-contents) |
 
     #### Plant Flower
 
@@ -485,12 +595,13 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#animals--nature) | :seedling: | \`:seedling:\` | :evergreen_tree: | \`:evergreen_tree:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :deciduous_tree: | \`:deciduous_tree:\` | :palm_tree: | \`:palm_tree:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :cactus: | \`:cactus:\` | :ear_of_rice: | \`:ear_of_rice:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :herb: | \`:herb:\` | :shamrock: | \`:shamrock:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :four_leaf_clover: | \`:four_leaf_clover:\` | :maple_leaf: | \`:maple_leaf:\` | [top](#table-of-contents) |
-    | [top](#animals--nature) | :fallen_leaf: | \`:fallen_leaf:\` | :leaves: | \`:leaves:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :seedling: | \`:seedling:\` | :potted_plant: | \`:potted_plant:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :evergreen_tree: | \`:evergreen_tree:\` | :deciduous_tree: | \`:deciduous_tree:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :palm_tree: | \`:palm_tree:\` | :cactus: | \`:cactus:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :ear_of_rice: | \`:ear_of_rice:\` | :herb: | \`:herb:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :shamrock: | \`:shamrock:\` | :four_leaf_clover: | \`:four_leaf_clover:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :maple_leaf: | \`:maple_leaf:\` | :fallen_leaf: | \`:fallen_leaf:\` | [top](#table-of-contents) |
+    | [top](#animals--nature) | :leaves: | \`:leaves:\` | :mushroom: | \`:mushroom:\` | [top](#table-of-contents) |
 
     ### Food & Drink
 
@@ -510,11 +621,13 @@ test("emoji-cheat-sheet", async () => {
     | [top](#food--drink) | :grapes: | \`:grapes:\` | :melon: | \`:melon:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :watermelon: | \`:watermelon:\` | :mandarin: | \`:mandarin:\` <br /> \`:orange:\` <br /> \`:tangerine:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :lemon: | \`:lemon:\` | :banana: | \`:banana:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :pineapple: | \`:pineapple:\` | :apple: | \`:apple:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :green_apple: | \`:green_apple:\` | :pear: | \`:pear:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :peach: | \`:peach:\` | :cherries: | \`:cherries:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :strawberry: | \`:strawberry:\` | :kiwi_fruit: | \`:kiwi_fruit:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :tomato: | \`:tomato:\` | | | [top](#table-of-contents) |
+    | [top](#food--drink) | :pineapple: | \`:pineapple:\` | :mango: | \`:mango:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :apple: | \`:apple:\` | :green_apple: | \`:green_apple:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :pear: | \`:pear:\` | :peach: | \`:peach:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :cherries: | \`:cherries:\` | :strawberry: | \`:strawberry:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :blueberries: | \`:blueberries:\` | :kiwi_fruit: | \`:kiwi_fruit:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :tomato: | \`:tomato:\` | :olive: | \`:olive:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :coconut: | \`:coconut:\` | | | [top](#table-of-contents) |
 
     #### Food Vegetable
 
@@ -523,7 +636,9 @@ test("emoji-cheat-sheet", async () => {
     | [top](#food--drink) | :avocado: | \`:avocado:\` | :eggplant: | \`:eggplant:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :potato: | \`:potato:\` | :carrot: | \`:carrot:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :corn: | \`:corn:\` | :hot_pepper: | \`:hot_pepper:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :cucumber: | \`:cucumber:\` | :mushroom: | \`:mushroom:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :bell_pepper: | \`:bell_pepper:\` | :cucumber: | \`:cucumber:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :leafy_green: | \`:leafy_green:\` | :broccoli: | \`:broccoli:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :garlic: | \`:garlic:\` | :onion: | \`:onion:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :peanuts: | \`:peanuts:\` | :chestnut: | \`:chestnut:\` | [top](#table-of-contents) |
 
     #### Food Prepared
@@ -531,16 +646,22 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#food--drink) | :bread: | \`:bread:\` | :croissant: | \`:croissant:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :baguette_bread: | \`:baguette_bread:\` | :pancakes: | \`:pancakes:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :baguette_bread: | \`:baguette_bread:\` | :flatbread: | \`:flatbread:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :pretzel: | \`:pretzel:\` | :bagel: | \`:bagel:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :pancakes: | \`:pancakes:\` | :waffle: | \`:waffle:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :cheese: | \`:cheese:\` | :meat_on_bone: | \`:meat_on_bone:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :poultry_leg: | \`:poultry_leg:\` | :bacon: | \`:bacon:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :hamburger: | \`:hamburger:\` | :fries: | \`:fries:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :pizza: | \`:pizza:\` | :hotdog: | \`:hotdog:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :poultry_leg: | \`:poultry_leg:\` | :cut_of_meat: | \`:cut_of_meat:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :bacon: | \`:bacon:\` | :hamburger: | \`:hamburger:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :fries: | \`:fries:\` | :pizza: | \`:pizza:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :hotdog: | \`:hotdog:\` | :sandwich: | \`:sandwich:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :taco: | \`:taco:\` | :burrito: | \`:burrito:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :stuffed_flatbread: | \`:stuffed_flatbread:\` | :egg: | \`:egg:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :tamale: | \`:tamale:\` | :stuffed_flatbread: | \`:stuffed_flatbread:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :falafel: | \`:falafel:\` | :egg: | \`:egg:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :fried_egg: | \`:fried_egg:\` | :shallow_pan_of_food: | \`:shallow_pan_of_food:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :stew: | \`:stew:\` | :green_salad: | \`:green_salad:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :popcorn: | \`:popcorn:\` | | | [top](#table-of-contents) |
+    | [top](#food--drink) | :stew: | \`:stew:\` | :fondue: | \`:fondue:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :bowl_with_spoon: | \`:bowl_with_spoon:\` | :green_salad: | \`:green_salad:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :popcorn: | \`:popcorn:\` | :butter: | \`:butter:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :salt: | \`:salt:\` | :canned_food: | \`:canned_food:\` | [top](#table-of-contents) |
 
     #### Food Asian
 
@@ -552,14 +673,17 @@ test("emoji-cheat-sheet", async () => {
     | [top](#food--drink) | :spaghetti: | \`:spaghetti:\` | :sweet_potato: | \`:sweet_potato:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :oden: | \`:oden:\` | :sushi: | \`:sushi:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :fried_shrimp: | \`:fried_shrimp:\` | :fish_cake: | \`:fish_cake:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :dango: | \`:dango:\` | | | [top](#table-of-contents) |
+    | [top](#food--drink) | :moon_cake: | \`:moon_cake:\` | :dango: | \`:dango:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :dumpling: | \`:dumpling:\` | :fortune_cookie: | \`:fortune_cookie:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :takeout_box: | \`:takeout_box:\` | | | [top](#table-of-contents) |
 
     #### Food Marine
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#food--drink) | :crab: | \`:crab:\` | :shrimp: | \`:shrimp:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :squid: | \`:squid:\` | | | [top](#table-of-contents) |
+    | [top](#food--drink) | :crab: | \`:crab:\` | :lobster: | \`:lobster:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :shrimp: | \`:shrimp:\` | :squid: | \`:squid:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :oyster: | \`:oyster:\` | | | [top](#table-of-contents) |
 
     #### Food Sweet
 
@@ -568,7 +692,8 @@ test("emoji-cheat-sheet", async () => {
     | [top](#food--drink) | :icecream: | \`:icecream:\` | :shaved_ice: | \`:shaved_ice:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :ice_cream: | \`:ice_cream:\` | :doughnut: | \`:doughnut:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :cookie: | \`:cookie:\` | :birthday: | \`:birthday:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :cake: | \`:cake:\` | :chocolate_bar: | \`:chocolate_bar:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :cake: | \`:cake:\` | :cupcake: | \`:cupcake:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :pie: | \`:pie:\` | :chocolate_bar: | \`:chocolate_bar:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :candy: | \`:candy:\` | :lollipop: | \`:lollipop:\` | [top](#table-of-contents) |
     | [top](#food--drink) | :custard: | \`:custard:\` | :honey_pot: | \`:honey_pot:\` | [top](#table-of-contents) |
 
@@ -577,20 +702,23 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#food--drink) | :baby_bottle: | \`:baby_bottle:\` | :milk_glass: | \`:milk_glass:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :coffee: | \`:coffee:\` | :tea: | \`:tea:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :sake: | \`:sake:\` | :champagne: | \`:champagne:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :wine_glass: | \`:wine_glass:\` | :cocktail: | \`:cocktail:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :tropical_drink: | \`:tropical_drink:\` | :beer: | \`:beer:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :beers: | \`:beers:\` | :clinking_glasses: | \`:clinking_glasses:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :tumbler_glass: | \`:tumbler_glass:\` | | | [top](#table-of-contents) |
+    | [top](#food--drink) | :coffee: | \`:coffee:\` | :teapot: | \`:teapot:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :tea: | \`:tea:\` | :sake: | \`:sake:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :champagne: | \`:champagne:\` | :wine_glass: | \`:wine_glass:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :cocktail: | \`:cocktail:\` | :tropical_drink: | \`:tropical_drink:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :beer: | \`:beer:\` | :beers: | \`:beers:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :clinking_glasses: | \`:clinking_glasses:\` | :tumbler_glass: | \`:tumbler_glass:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :cup_with_straw: | \`:cup_with_straw:\` | :bubble_tea: | \`:bubble_tea:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :beverage_box: | \`:beverage_box:\` | :mate: | \`:mate:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :ice_cube: | \`:ice_cube:\` | | | [top](#table-of-contents) |
 
     #### Dishware
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#food--drink) | :plate_with_cutlery: | \`:plate_with_cutlery:\` | :fork_and_knife: | \`:fork_and_knife:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :spoon: | \`:spoon:\` | :hocho: | \`:hocho:\` <br /> \`:knife:\` | [top](#table-of-contents) |
-    | [top](#food--drink) | :amphora: | \`:amphora:\` | | | [top](#table-of-contents) |
+    | [top](#food--drink) | :chopsticks: | \`:chopsticks:\` | :plate_with_cutlery: | \`:plate_with_cutlery:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :fork_and_knife: | \`:fork_and_knife:\` | :spoon: | \`:spoon:\` | [top](#table-of-contents) |
+    | [top](#food--drink) | :hocho: | \`:hocho:\` <br /> \`:knife:\` | :amphora: | \`:amphora:\` | [top](#table-of-contents) |
 
     ### Travel & Places
 
@@ -613,6 +741,7 @@ test("emoji-cheat-sheet", async () => {
     | [top](#travel--places) | :earth_africa: | \`:earth_africa:\` | :earth_americas: | \`:earth_americas:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :earth_asia: | \`:earth_asia:\` | :globe_with_meridians: | \`:globe_with_meridians:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :world_map: | \`:world_map:\` | :japan: | \`:japan:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :compass: | \`:compass:\` | | | [top](#table-of-contents) |
 
     #### Place Geographic
 
@@ -629,7 +758,9 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#travel--places) | :stadium: | \`:stadium:\` | :classical_building: | \`:classical_building:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :building_construction: | \`:building_construction:\` | :houses: | \`:houses:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :building_construction: | \`:building_construction:\` | :bricks: | \`:bricks:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :rock: | \`:rock:\` | :wood: | \`:wood:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :hut: | \`:hut:\` | :houses: | \`:houses:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :derelict_house: | \`:derelict_house:\` | :house: | \`:house:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :house_with_garden: | \`:house_with_garden:\` | :office: | \`:office:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :post_office: | \`:post_office:\` | :european_post_office: | \`:european_post_office:\` | [top](#table-of-contents) |
@@ -646,8 +777,8 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#travel--places) | :church: | \`:church:\` | :mosque: | \`:mosque:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :synagogue: | \`:synagogue:\` | :shinto_shrine: | \`:shinto_shrine:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :kaaba: | \`:kaaba:\` | | | [top](#table-of-contents) |
+    | [top](#travel--places) | :hindu_temple: | \`:hindu_temple:\` | :synagogue: | \`:synagogue:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :shinto_shrine: | \`:shinto_shrine:\` | :kaaba: | \`:kaaba:\` | [top](#table-of-contents) |
 
     #### Place Other
 
@@ -678,11 +809,14 @@ test("emoji-cheat-sheet", async () => {
     | [top](#travel--places) | :police_car: | \`:police_car:\` | :oncoming_police_car: | \`:oncoming_police_car:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :taxi: | \`:taxi:\` | :oncoming_taxi: | \`:oncoming_taxi:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :car: | \`:car:\` <br /> \`:red_car:\` | :oncoming_automobile: | \`:oncoming_automobile:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :blue_car: | \`:blue_car:\` | :truck: | \`:truck:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :articulated_lorry: | \`:articulated_lorry:\` | :tractor: | \`:tractor:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :racing_car: | \`:racing_car:\` | :motorcycle: | \`:motorcycle:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :motor_scooter: | \`:motor_scooter:\` | :bike: | \`:bike:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :kick_scooter: | \`:kick_scooter:\` | :busstop: | \`:busstop:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :blue_car: | \`:blue_car:\` | :pickup_truck: | \`:pickup_truck:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :truck: | \`:truck:\` | :articulated_lorry: | \`:articulated_lorry:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :tractor: | \`:tractor:\` | :racing_car: | \`:racing_car:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :motorcycle: | \`:motorcycle:\` | :motor_scooter: | \`:motor_scooter:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :manual_wheelchair: | \`:manual_wheelchair:\` | :motorized_wheelchair: | \`:motorized_wheelchair:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :auto_rickshaw: | \`:auto_rickshaw:\` | :bike: | \`:bike:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :kick_scooter: | \`:kick_scooter:\` | :skateboard: | \`:skateboard:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :roller_skate: | \`:roller_skate:\` | :busstop: | \`:busstop:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :motorway: | \`:motorway:\` | :railway_track: | \`:railway_track:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :oil_drum: | \`:oil_drum:\` | :fuelpump: | \`:fuelpump:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :rotating_light: | \`:rotating_light:\` | :traffic_light: | \`:traffic_light:\` | [top](#table-of-contents) |
@@ -704,16 +838,17 @@ test("emoji-cheat-sheet", async () => {
     | - | :-: | - | :-: | - | - |
     | [top](#travel--places) | :airplane: | \`:airplane:\` | :small_airplane: | \`:small_airplane:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :flight_departure: | \`:flight_departure:\` | :flight_arrival: | \`:flight_arrival:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :seat: | \`:seat:\` | :helicopter: | \`:helicopter:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :suspension_railway: | \`:suspension_railway:\` | :mountain_cableway: | \`:mountain_cableway:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :aerial_tramway: | \`:aerial_tramway:\` | :artificial_satellite: | \`:artificial_satellite:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :rocket: | \`:rocket:\` | | | [top](#table-of-contents) |
+    | [top](#travel--places) | :parachute: | \`:parachute:\` | :seat: | \`:seat:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :helicopter: | \`:helicopter:\` | :suspension_railway: | \`:suspension_railway:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :mountain_cableway: | \`:mountain_cableway:\` | :aerial_tramway: | \`:aerial_tramway:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :artificial_satellite: | \`:artificial_satellite:\` | :rocket: | \`:rocket:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :flying_saucer: | \`:flying_saucer:\` | | | [top](#table-of-contents) |
 
     #### Hotel
 
-    | | ico | shortcode | |
-    | - | :-: | - | - |
-    | [top](#travel--places) | :bellhop_bell: | \`:bellhop_bell:\` | [top](#table-of-contents) |
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#travel--places) | :bellhop_bell: | \`:bellhop_bell:\` | :luggage: | \`:luggage:\` | [top](#table-of-contents) |
 
     #### Time
 
@@ -748,21 +883,22 @@ test("emoji-cheat-sheet", async () => {
     | [top](#travel--places) | :first_quarter_moon_with_face: | \`:first_quarter_moon_with_face:\` | :last_quarter_moon_with_face: | \`:last_quarter_moon_with_face:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :thermometer: | \`:thermometer:\` | :sunny: | \`:sunny:\` | [top](#table-of-contents) |
     | [top](#travel--places) | :full_moon_with_face: | \`:full_moon_with_face:\` | :sun_with_face: | \`:sun_with_face:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :star: | \`:star:\` | :star2: | \`:star2:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :stars: | \`:stars:\` | :milky_way: | \`:milky_way:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :cloud: | \`:cloud:\` | :partly_sunny: | \`:partly_sunny:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :cloud_with_lightning_and_rain: | \`:cloud_with_lightning_and_rain:\` | :sun_behind_small_cloud: | \`:sun_behind_small_cloud:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :sun_behind_large_cloud: | \`:sun_behind_large_cloud:\` | :sun_behind_rain_cloud: | \`:sun_behind_rain_cloud:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :cloud_with_rain: | \`:cloud_with_rain:\` | :cloud_with_snow: | \`:cloud_with_snow:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :cloud_with_lightning: | \`:cloud_with_lightning:\` | :tornado: | \`:tornado:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :fog: | \`:fog:\` | :wind_face: | \`:wind_face:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :cyclone: | \`:cyclone:\` | :rainbow: | \`:rainbow:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :closed_umbrella: | \`:closed_umbrella:\` | :open_umbrella: | \`:open_umbrella:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :umbrella: | \`:umbrella:\` | :parasol_on_ground: | \`:parasol_on_ground:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :zap: | \`:zap:\` | :snowflake: | \`:snowflake:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :snowman_with_snow: | \`:snowman_with_snow:\` | :snowman: | \`:snowman:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :comet: | \`:comet:\` | :fire: | \`:fire:\` | [top](#table-of-contents) |
-    | [top](#travel--places) | :droplet: | \`:droplet:\` | :ocean: | \`:ocean:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :ringed_planet: | \`:ringed_planet:\` | :star: | \`:star:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :star2: | \`:star2:\` | :stars: | \`:stars:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :milky_way: | \`:milky_way:\` | :cloud: | \`:cloud:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :partly_sunny: | \`:partly_sunny:\` | :cloud_with_lightning_and_rain: | \`:cloud_with_lightning_and_rain:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :sun_behind_small_cloud: | \`:sun_behind_small_cloud:\` | :sun_behind_large_cloud: | \`:sun_behind_large_cloud:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :sun_behind_rain_cloud: | \`:sun_behind_rain_cloud:\` | :cloud_with_rain: | \`:cloud_with_rain:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :cloud_with_snow: | \`:cloud_with_snow:\` | :cloud_with_lightning: | \`:cloud_with_lightning:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :tornado: | \`:tornado:\` | :fog: | \`:fog:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :wind_face: | \`:wind_face:\` | :cyclone: | \`:cyclone:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :rainbow: | \`:rainbow:\` | :closed_umbrella: | \`:closed_umbrella:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :open_umbrella: | \`:open_umbrella:\` | :umbrella: | \`:umbrella:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :parasol_on_ground: | \`:parasol_on_ground:\` | :zap: | \`:zap:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :snowflake: | \`:snowflake:\` | :snowman_with_snow: | \`:snowman_with_snow:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :snowman: | \`:snowman:\` | :comet: | \`:comet:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :fire: | \`:fire:\` | :droplet: | \`:droplet:\` | [top](#table-of-contents) |
+    | [top](#travel--places) | :ocean: | \`:ocean:\` | | | [top](#table-of-contents) |
 
     ### Activities
 
@@ -778,11 +914,12 @@ test("emoji-cheat-sheet", async () => {
     | - | :-: | - | :-: | - | - |
     | [top](#activities) | :jack_o_lantern: | \`:jack_o_lantern:\` | :christmas_tree: | \`:christmas_tree:\` | [top](#table-of-contents) |
     | [top](#activities) | :fireworks: | \`:fireworks:\` | :sparkler: | \`:sparkler:\` | [top](#table-of-contents) |
-    | [top](#activities) | :sparkles: | \`:sparkles:\` | :balloon: | \`:balloon:\` | [top](#table-of-contents) |
-    | [top](#activities) | :tada: | \`:tada:\` | :confetti_ball: | \`:confetti_ball:\` | [top](#table-of-contents) |
-    | [top](#activities) | :tanabata_tree: | \`:tanabata_tree:\` | :bamboo: | \`:bamboo:\` | [top](#table-of-contents) |
-    | [top](#activities) | :dolls: | \`:dolls:\` | :flags: | \`:flags:\` | [top](#table-of-contents) |
-    | [top](#activities) | :wind_chime: | \`:wind_chime:\` | :rice_scene: | \`:rice_scene:\` | [top](#table-of-contents) |
+    | [top](#activities) | :firecracker: | \`:firecracker:\` | :sparkles: | \`:sparkles:\` | [top](#table-of-contents) |
+    | [top](#activities) | :balloon: | \`:balloon:\` | :tada: | \`:tada:\` | [top](#table-of-contents) |
+    | [top](#activities) | :confetti_ball: | \`:confetti_ball:\` | :tanabata_tree: | \`:tanabata_tree:\` | [top](#table-of-contents) |
+    | [top](#activities) | :bamboo: | \`:bamboo:\` | :dolls: | \`:dolls:\` | [top](#table-of-contents) |
+    | [top](#activities) | :flags: | \`:flags:\` | :wind_chime: | \`:wind_chime:\` | [top](#table-of-contents) |
+    | [top](#activities) | :rice_scene: | \`:rice_scene:\` | :red_envelope: | \`:red_envelope:\` | [top](#table-of-contents) |
     | [top](#activities) | :ribbon: | \`:ribbon:\` | :gift: | \`:gift:\` | [top](#table-of-contents) |
     | [top](#activities) | :reminder_ribbon: | \`:reminder_ribbon:\` | :tickets: | \`:tickets:\` | [top](#table-of-contents) |
     | [top](#activities) | :ticket: | \`:ticket:\` | | | [top](#table-of-contents) |
@@ -800,35 +937,45 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#activities) | :soccer: | \`:soccer:\` | :baseball: | \`:baseball:\` | [top](#table-of-contents) |
-    | [top](#activities) | :basketball: | \`:basketball:\` | :volleyball: | \`:volleyball:\` | [top](#table-of-contents) |
-    | [top](#activities) | :football: | \`:football:\` | :rugby_football: | \`:rugby_football:\` | [top](#table-of-contents) |
-    | [top](#activities) | :tennis: | \`:tennis:\` | :bowling: | \`:bowling:\` | [top](#table-of-contents) |
-    | [top](#activities) | :cricket: | \`:cricket:\` | :field_hockey: | \`:field_hockey:\` | [top](#table-of-contents) |
-    | [top](#activities) | :ice_hockey: | \`:ice_hockey:\` | :ping_pong: | \`:ping_pong:\` | [top](#table-of-contents) |
-    | [top](#activities) | :badminton: | \`:badminton:\` | :boxing_glove: | \`:boxing_glove:\` | [top](#table-of-contents) |
-    | [top](#activities) | :martial_arts_uniform: | \`:martial_arts_uniform:\` | :goal_net: | \`:goal_net:\` | [top](#table-of-contents) |
-    | [top](#activities) | :golf: | \`:golf:\` | :ice_skate: | \`:ice_skate:\` | [top](#table-of-contents) |
-    | [top](#activities) | :fishing_pole_and_fish: | \`:fishing_pole_and_fish:\` | :running_shirt_with_sash: | \`:running_shirt_with_sash:\` | [top](#table-of-contents) |
-    | [top](#activities) | :ski: | \`:ski:\` | | | [top](#table-of-contents) |
+    | [top](#activities) | :softball: | \`:softball:\` | :basketball: | \`:basketball:\` | [top](#table-of-contents) |
+    | [top](#activities) | :volleyball: | \`:volleyball:\` | :football: | \`:football:\` | [top](#table-of-contents) |
+    | [top](#activities) | :rugby_football: | \`:rugby_football:\` | :tennis: | \`:tennis:\` | [top](#table-of-contents) |
+    | [top](#activities) | :flying_disc: | \`:flying_disc:\` | :bowling: | \`:bowling:\` | [top](#table-of-contents) |
+    | [top](#activities) | :cricket_game: | \`:cricket_game:\` | :field_hockey: | \`:field_hockey:\` | [top](#table-of-contents) |
+    | [top](#activities) | :ice_hockey: | \`:ice_hockey:\` | :lacrosse: | \`:lacrosse:\` | [top](#table-of-contents) |
+    | [top](#activities) | :ping_pong: | \`:ping_pong:\` | :badminton: | \`:badminton:\` | [top](#table-of-contents) |
+    | [top](#activities) | :boxing_glove: | \`:boxing_glove:\` | :martial_arts_uniform: | \`:martial_arts_uniform:\` | [top](#table-of-contents) |
+    | [top](#activities) | :goal_net: | \`:goal_net:\` | :golf: | \`:golf:\` | [top](#table-of-contents) |
+    | [top](#activities) | :ice_skate: | \`:ice_skate:\` | :fishing_pole_and_fish: | \`:fishing_pole_and_fish:\` | [top](#table-of-contents) |
+    | [top](#activities) | :diving_mask: | \`:diving_mask:\` | :running_shirt_with_sash: | \`:running_shirt_with_sash:\` | [top](#table-of-contents) |
+    | [top](#activities) | :ski: | \`:ski:\` | :sled: | \`:sled:\` | [top](#table-of-contents) |
+    | [top](#activities) | :curling_stone: | \`:curling_stone:\` | | | [top](#table-of-contents) |
 
     #### Game
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#activities) | :dart: | \`:dart:\` | :8ball: | \`:8ball:\` | [top](#table-of-contents) |
-    | [top](#activities) | :crystal_ball: | \`:crystal_ball:\` | :video_game: | \`:video_game:\` | [top](#table-of-contents) |
+    | [top](#activities) | :dart: | \`:dart:\` | :yo_yo: | \`:yo_yo:\` | [top](#table-of-contents) |
+    | [top](#activities) | :kite: | \`:kite:\` | :gun: | \`:gun:\` | [top](#table-of-contents) |
+    | [top](#activities) | :8ball: | \`:8ball:\` | :crystal_ball: | \`:crystal_ball:\` | [top](#table-of-contents) |
+    | [top](#activities) | :magic_wand: | \`:magic_wand:\` | :video_game: | \`:video_game:\` | [top](#table-of-contents) |
     | [top](#activities) | :joystick: | \`:joystick:\` | :slot_machine: | \`:slot_machine:\` | [top](#table-of-contents) |
-    | [top](#activities) | :game_die: | \`:game_die:\` | :spades: | \`:spades:\` | [top](#table-of-contents) |
+    | [top](#activities) | :game_die: | \`:game_die:\` | :jigsaw: | \`:jigsaw:\` | [top](#table-of-contents) |
+    | [top](#activities) | :teddy_bear: | \`:teddy_bear:\` | :pinata: | \`:pinata:\` | [top](#table-of-contents) |
+    | [top](#activities) | :nesting_dolls: | \`:nesting_dolls:\` | :spades: | \`:spades:\` | [top](#table-of-contents) |
     | [top](#activities) | :hearts: | \`:hearts:\` | :diamonds: | \`:diamonds:\` | [top](#table-of-contents) |
-    | [top](#activities) | :clubs: | \`:clubs:\` | :black_joker: | \`:black_joker:\` | [top](#table-of-contents) |
-    | [top](#activities) | :mahjong: | \`:mahjong:\` | :flower_playing_cards: | \`:flower_playing_cards:\` | [top](#table-of-contents) |
+    | [top](#activities) | :clubs: | \`:clubs:\` | :chess_pawn: | \`:chess_pawn:\` | [top](#table-of-contents) |
+    | [top](#activities) | :black_joker: | \`:black_joker:\` | :mahjong: | \`:mahjong:\` | [top](#table-of-contents) |
+    | [top](#activities) | :flower_playing_cards: | \`:flower_playing_cards:\` | | | [top](#table-of-contents) |
 
     #### Arts & Crafts
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#activities) | :performing_arts: | \`:performing_arts:\` | :framed_picture: | \`:framed_picture:\` | [top](#table-of-contents) |
-    | [top](#activities) | :art: | \`:art:\` | | | [top](#table-of-contents) |
+    | [top](#activities) | :art: | \`:art:\` | :thread: | \`:thread:\` | [top](#table-of-contents) |
+    | [top](#activities) | :sewing_needle: | \`:sewing_needle:\` | :yarn: | \`:yarn:\` | [top](#table-of-contents) |
+    | [top](#activities) | :knot: | \`:knot:\` | | | [top](#table-of-contents) |
 
     ### Objects
 
@@ -856,19 +1003,28 @@ test("emoji-cheat-sheet", async () => {
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#objects) | :eyeglasses: | \`:eyeglasses:\` | :dark_sunglasses: | \`:dark_sunglasses:\` | [top](#table-of-contents) |
-    | [top](#objects) | :necktie: | \`:necktie:\` | :shirt: | \`:shirt:\` <br /> \`:tshirt:\` | [top](#table-of-contents) |
-    | [top](#objects) | :jeans: | \`:jeans:\` | :dress: | \`:dress:\` | [top](#table-of-contents) |
-    | [top](#objects) | :kimono: | \`:kimono:\` | :bikini: | \`:bikini:\` | [top](#table-of-contents) |
-    | [top](#objects) | :womans_clothes: | \`:womans_clothes:\` | :purse: | \`:purse:\` | [top](#table-of-contents) |
-    | [top](#objects) | :handbag: | \`:handbag:\` | :pouch: | \`:pouch:\` | [top](#table-of-contents) |
-    | [top](#objects) | :shopping: | \`:shopping:\` | :school_satchel: | \`:school_satchel:\` | [top](#table-of-contents) |
+    | [top](#objects) | :goggles: | \`:goggles:\` | :lab_coat: | \`:lab_coat:\` | [top](#table-of-contents) |
+    | [top](#objects) | :safety_vest: | \`:safety_vest:\` | :necktie: | \`:necktie:\` | [top](#table-of-contents) |
+    | [top](#objects) | :shirt: | \`:shirt:\` <br /> \`:tshirt:\` | :jeans: | \`:jeans:\` | [top](#table-of-contents) |
+    | [top](#objects) | :scarf: | \`:scarf:\` | :gloves: | \`:gloves:\` | [top](#table-of-contents) |
+    | [top](#objects) | :coat: | \`:coat:\` | :socks: | \`:socks:\` | [top](#table-of-contents) |
+    | [top](#objects) | :dress: | \`:dress:\` | :kimono: | \`:kimono:\` | [top](#table-of-contents) |
+    | [top](#objects) | :sari: | \`:sari:\` | :one_piece_swimsuit: | \`:one_piece_swimsuit:\` | [top](#table-of-contents) |
+    | [top](#objects) | :swim_brief: | \`:swim_brief:\` | :shorts: | \`:shorts:\` | [top](#table-of-contents) |
+    | [top](#objects) | :bikini: | \`:bikini:\` | :womans_clothes: | \`:womans_clothes:\` | [top](#table-of-contents) |
+    | [top](#objects) | :purse: | \`:purse:\` | :handbag: | \`:handbag:\` | [top](#table-of-contents) |
+    | [top](#objects) | :pouch: | \`:pouch:\` | :shopping: | \`:shopping:\` | [top](#table-of-contents) |
+    | [top](#objects) | :school_satchel: | \`:school_satchel:\` | :thong_sandal: | \`:thong_sandal:\` | [top](#table-of-contents) |
     | [top](#objects) | :mans_shoe: | \`:mans_shoe:\` <br /> \`:shoe:\` | :athletic_shoe: | \`:athletic_shoe:\` | [top](#table-of-contents) |
+    | [top](#objects) | :hiking_boot: | \`:hiking_boot:\` | :flat_shoe: | \`:flat_shoe:\` | [top](#table-of-contents) |
     | [top](#objects) | :high_heel: | \`:high_heel:\` | :sandal: | \`:sandal:\` | [top](#table-of-contents) |
-    | [top](#objects) | :boot: | \`:boot:\` | :crown: | \`:crown:\` | [top](#table-of-contents) |
-    | [top](#objects) | :womans_hat: | \`:womans_hat:\` | :tophat: | \`:tophat:\` | [top](#table-of-contents) |
-    | [top](#objects) | :mortar_board: | \`:mortar_board:\` | :rescue_worker_helmet: | \`:rescue_worker_helmet:\` | [top](#table-of-contents) |
-    | [top](#objects) | :prayer_beads: | \`:prayer_beads:\` | :lipstick: | \`:lipstick:\` | [top](#table-of-contents) |
-    | [top](#objects) | :ring: | \`:ring:\` | :gem: | \`:gem:\` | [top](#table-of-contents) |
+    | [top](#objects) | :ballet_shoes: | \`:ballet_shoes:\` | :boot: | \`:boot:\` | [top](#table-of-contents) |
+    | [top](#objects) | :crown: | \`:crown:\` | :womans_hat: | \`:womans_hat:\` | [top](#table-of-contents) |
+    | [top](#objects) | :tophat: | \`:tophat:\` | :mortar_board: | \`:mortar_board:\` | [top](#table-of-contents) |
+    | [top](#objects) | :billed_cap: | \`:billed_cap:\` | :military_helmet: | \`:military_helmet:\` | [top](#table-of-contents) |
+    | [top](#objects) | :rescue_worker_helmet: | \`:rescue_worker_helmet:\` | :prayer_beads: | \`:prayer_beads:\` | [top](#table-of-contents) |
+    | [top](#objects) | :lipstick: | \`:lipstick:\` | :ring: | \`:ring:\` | [top](#table-of-contents) |
+    | [top](#objects) | :gem: | \`:gem:\` | | | [top](#table-of-contents) |
 
     #### Sound
 
@@ -894,9 +1050,11 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :saxophone: | \`:saxophone:\` | :guitar: | \`:guitar:\` | [top](#table-of-contents) |
-    | [top](#objects) | :musical_keyboard: | \`:musical_keyboard:\` | :trumpet: | \`:trumpet:\` | [top](#table-of-contents) |
-    | [top](#objects) | :violin: | \`:violin:\` | :drum: | \`:drum:\` | [top](#table-of-contents) |
+    | [top](#objects) | :saxophone: | \`:saxophone:\` | :accordion: | \`:accordion:\` | [top](#table-of-contents) |
+    | [top](#objects) | :guitar: | \`:guitar:\` | :musical_keyboard: | \`:musical_keyboard:\` | [top](#table-of-contents) |
+    | [top](#objects) | :trumpet: | \`:trumpet:\` | :violin: | \`:violin:\` | [top](#table-of-contents) |
+    | [top](#objects) | :banjo: | \`:banjo:\` | :drum: | \`:drum:\` | [top](#table-of-contents) |
+    | [top](#objects) | :long_drum: | \`:long_drum:\` | | | [top](#table-of-contents) |
 
     #### Phone
 
@@ -916,6 +1074,7 @@ test("emoji-cheat-sheet", async () => {
     | [top](#objects) | :computer_mouse: | \`:computer_mouse:\` | :trackball: | \`:trackball:\` | [top](#table-of-contents) |
     | [top](#objects) | :minidisc: | \`:minidisc:\` | :floppy_disk: | \`:floppy_disk:\` | [top](#table-of-contents) |
     | [top](#objects) | :cd: | \`:cd:\` | :dvd: | \`:dvd:\` | [top](#table-of-contents) |
+    | [top](#objects) | :abacus: | \`:abacus:\` | | | [top](#table-of-contents) |
 
     #### Light & Video
 
@@ -928,7 +1087,7 @@ test("emoji-cheat-sheet", async () => {
     | [top](#objects) | :vhs: | \`:vhs:\` | :mag: | \`:mag:\` | [top](#table-of-contents) |
     | [top](#objects) | :mag_right: | \`:mag_right:\` | :candle: | \`:candle:\` | [top](#table-of-contents) |
     | [top](#objects) | :bulb: | \`:bulb:\` | :flashlight: | \`:flashlight:\` | [top](#table-of-contents) |
-    | [top](#objects) | :izakaya_lantern: | \`:izakaya_lantern:\` <br /> \`:lantern:\` | | | [top](#table-of-contents) |
+    | [top](#objects) | :izakaya_lantern: | \`:izakaya_lantern:\` <br /> \`:lantern:\` | :diya_lamp: | \`:diya_lamp:\` | [top](#table-of-contents) |
 
     #### Book Paper
 
@@ -948,17 +1107,17 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :moneybag: | \`:moneybag:\` | :yen: | \`:yen:\` | [top](#table-of-contents) |
-    | [top](#objects) | :dollar: | \`:dollar:\` | :euro: | \`:euro:\` | [top](#table-of-contents) |
-    | [top](#objects) | :pound: | \`:pound:\` | :money_with_wings: | \`:money_with_wings:\` | [top](#table-of-contents) |
-    | [top](#objects) | :credit_card: | \`:credit_card:\` | :chart: | \`:chart:\` | [top](#table-of-contents) |
-    | [top](#objects) | :currency_exchange: | \`:currency_exchange:\` | :heavy_dollar_sign: | \`:heavy_dollar_sign:\` | [top](#table-of-contents) |
+    | [top](#objects) | :moneybag: | \`:moneybag:\` | :coin: | \`:coin:\` | [top](#table-of-contents) |
+    | [top](#objects) | :yen: | \`:yen:\` | :dollar: | \`:dollar:\` | [top](#table-of-contents) |
+    | [top](#objects) | :euro: | \`:euro:\` | :pound: | \`:pound:\` | [top](#table-of-contents) |
+    | [top](#objects) | :money_with_wings: | \`:money_with_wings:\` | :credit_card: | \`:credit_card:\` | [top](#table-of-contents) |
+    | [top](#objects) | :receipt: | \`:receipt:\` | :chart: | \`:chart:\` | [top](#table-of-contents) |
 
     #### Mail
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :email: | \`:email:\` <br /> \`:envelope:\` | :e-mail: | \`:e-mail:\` | [top](#table-of-contents) |
+    | [top](#objects) | :envelope: | \`:envelope:\` | :e-mail: | \`:e-mail:\` <br /> \`:email:\` | [top](#table-of-contents) |
     | [top](#objects) | :incoming_envelope: | \`:incoming_envelope:\` | :envelope_with_arrow: | \`:envelope_with_arrow:\` | [top](#table-of-contents) |
     | [top](#objects) | :outbox_tray: | \`:outbox_tray:\` | :inbox_tray: | \`:inbox_tray:\` | [top](#table-of-contents) |
     | [top](#objects) | :package: | \`:package:\` | :mailbox: | \`:mailbox:\` | [top](#table-of-contents) |
@@ -1004,43 +1163,62 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :hammer: | \`:hammer:\` | :pick: | \`:pick:\` | [top](#table-of-contents) |
-    | [top](#objects) | :hammer_and_pick: | \`:hammer_and_pick:\` | :hammer_and_wrench: | \`:hammer_and_wrench:\` | [top](#table-of-contents) |
-    | [top](#objects) | :dagger: | \`:dagger:\` | :crossed_swords: | \`:crossed_swords:\` | [top](#table-of-contents) |
-    | [top](#objects) | :gun: | \`:gun:\` | :bow_and_arrow: | \`:bow_and_arrow:\` | [top](#table-of-contents) |
-    | [top](#objects) | :shield: | \`:shield:\` | :wrench: | \`:wrench:\` | [top](#table-of-contents) |
+    | [top](#objects) | :hammer: | \`:hammer:\` | :axe: | \`:axe:\` | [top](#table-of-contents) |
+    | [top](#objects) | :pick: | \`:pick:\` | :hammer_and_pick: | \`:hammer_and_pick:\` | [top](#table-of-contents) |
+    | [top](#objects) | :hammer_and_wrench: | \`:hammer_and_wrench:\` | :dagger: | \`:dagger:\` | [top](#table-of-contents) |
+    | [top](#objects) | :crossed_swords: | \`:crossed_swords:\` | :bomb: | \`:bomb:\` | [top](#table-of-contents) |
+    | [top](#objects) | :boomerang: | \`:boomerang:\` | :bow_and_arrow: | \`:bow_and_arrow:\` | [top](#table-of-contents) |
+    | [top](#objects) | :shield: | \`:shield:\` | :carpentry_saw: | \`:carpentry_saw:\` | [top](#table-of-contents) |
+    | [top](#objects) | :wrench: | \`:wrench:\` | :screwdriver: | \`:screwdriver:\` | [top](#table-of-contents) |
     | [top](#objects) | :nut_and_bolt: | \`:nut_and_bolt:\` | :gear: | \`:gear:\` | [top](#table-of-contents) |
     | [top](#objects) | :clamp: | \`:clamp:\` | :balance_scale: | \`:balance_scale:\` | [top](#table-of-contents) |
-    | [top](#objects) | :link: | \`:link:\` | :chains: | \`:chains:\` | [top](#table-of-contents) |
+    | [top](#objects) | :probing_cane: | \`:probing_cane:\` | :link: | \`:link:\` | [top](#table-of-contents) |
+    | [top](#objects) | :chains: | \`:chains:\` | :hook: | \`:hook:\` | [top](#table-of-contents) |
+    | [top](#objects) | :toolbox: | \`:toolbox:\` | :magnet: | \`:magnet:\` | [top](#table-of-contents) |
+    | [top](#objects) | :ladder: | \`:ladder:\` | | | [top](#table-of-contents) |
 
     #### Science
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :alembic: | \`:alembic:\` | :microscope: | \`:microscope:\` | [top](#table-of-contents) |
-    | [top](#objects) | :telescope: | \`:telescope:\` | :satellite: | \`:satellite:\` | [top](#table-of-contents) |
+    | [top](#objects) | :alembic: | \`:alembic:\` | :test_tube: | \`:test_tube:\` | [top](#table-of-contents) |
+    | [top](#objects) | :petri_dish: | \`:petri_dish:\` | :dna: | \`:dna:\` | [top](#table-of-contents) |
+    | [top](#objects) | :microscope: | \`:microscope:\` | :telescope: | \`:telescope:\` | [top](#table-of-contents) |
+    | [top](#objects) | :satellite: | \`:satellite:\` | | | [top](#table-of-contents) |
 
     #### Medical
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :syringe: | \`:syringe:\` | :pill: | \`:pill:\` | [top](#table-of-contents) |
+    | [top](#objects) | :syringe: | \`:syringe:\` | :drop_of_blood: | \`:drop_of_blood:\` | [top](#table-of-contents) |
+    | [top](#objects) | :pill: | \`:pill:\` | :adhesive_bandage: | \`:adhesive_bandage:\` | [top](#table-of-contents) |
+    | [top](#objects) | :stethoscope: | \`:stethoscope:\` | | | [top](#table-of-contents) |
 
     #### Household
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#objects) | :door: | \`:door:\` | :bed: | \`:bed:\` | [top](#table-of-contents) |
-    | [top](#objects) | :couch_and_lamp: | \`:couch_and_lamp:\` | :toilet: | \`:toilet:\` | [top](#table-of-contents) |
-    | [top](#objects) | :shower: | \`:shower:\` | :bathtub: | \`:bathtub:\` | [top](#table-of-contents) |
-    | [top](#objects) | :shopping_cart: | \`:shopping_cart:\` | | | [top](#table-of-contents) |
+    | [top](#objects) | :door: | \`:door:\` | :elevator: | \`:elevator:\` | [top](#table-of-contents) |
+    | [top](#objects) | :mirror: | \`:mirror:\` | :window: | \`:window:\` | [top](#table-of-contents) |
+    | [top](#objects) | :bed: | \`:bed:\` | :couch_and_lamp: | \`:couch_and_lamp:\` | [top](#table-of-contents) |
+    | [top](#objects) | :chair: | \`:chair:\` | :toilet: | \`:toilet:\` | [top](#table-of-contents) |
+    | [top](#objects) | :plunger: | \`:plunger:\` | :shower: | \`:shower:\` | [top](#table-of-contents) |
+    | [top](#objects) | :bathtub: | \`:bathtub:\` | :mouse_trap: | \`:mouse_trap:\` | [top](#table-of-contents) |
+    | [top](#objects) | :razor: | \`:razor:\` | :lotion_bottle: | \`:lotion_bottle:\` | [top](#table-of-contents) |
+    | [top](#objects) | :safety_pin: | \`:safety_pin:\` | :broom: | \`:broom:\` | [top](#table-of-contents) |
+    | [top](#objects) | :basket: | \`:basket:\` | :roll_of_paper: | \`:roll_of_paper:\` | [top](#table-of-contents) |
+    | [top](#objects) | :bucket: | \`:bucket:\` | :soap: | \`:soap:\` | [top](#table-of-contents) |
+    | [top](#objects) | :toothbrush: | \`:toothbrush:\` | :sponge: | \`:sponge:\` | [top](#table-of-contents) |
+    | [top](#objects) | :fire_extinguisher: | \`:fire_extinguisher:\` | :shopping_cart: | \`:shopping_cart:\` | [top](#table-of-contents) |
 
     #### Other Object
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
     | [top](#objects) | :smoking: | \`:smoking:\` | :coffin: | \`:coffin:\` | [top](#table-of-contents) |
-    | [top](#objects) | :funeral_urn: | \`:funeral_urn:\` | :moyai: | \`:moyai:\` | [top](#table-of-contents) |
+    | [top](#objects) | :headstone: | \`:headstone:\` | :funeral_urn: | \`:funeral_urn:\` | [top](#table-of-contents) |
+    | [top](#objects) | :nazar_amulet: | \`:nazar_amulet:\` | :moyai: | \`:moyai:\` | [top](#table-of-contents) |
+    | [top](#objects) | :placard: | \`:placard:\` | | | [top](#table-of-contents) |
 
     ### Symbols
 
@@ -1050,6 +1228,10 @@ test("emoji-cheat-sheet", async () => {
     - [Religion](#religion)
     - [Zodiac](#zodiac)
     - [Av Symbol](#av-symbol)
+    - [Gender](#gender)
+    - [Math](#math)
+    - [Punctuation](#punctuation)
+    - [Currency](#currency)
     - [Other Symbol](#other-symbol)
     - [Keycap](#keycap)
     - [Alphanum](#alphanum)
@@ -1130,29 +1312,54 @@ test("emoji-cheat-sheet", async () => {
     | [top](#symbols) | :arrow_up_small: | \`:arrow_up_small:\` | :arrow_double_up: | \`:arrow_double_up:\` | [top](#table-of-contents) |
     | [top](#symbols) | :arrow_down_small: | \`:arrow_down_small:\` | :arrow_double_down: | \`:arrow_double_down:\` | [top](#table-of-contents) |
     | [top](#symbols) | :pause_button: | \`:pause_button:\` | :stop_button: | \`:stop_button:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :record_button: | \`:record_button:\` | :cinema: | \`:cinema:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :low_brightness: | \`:low_brightness:\` | :high_brightness: | \`:high_brightness:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :signal_strength: | \`:signal_strength:\` | :vibration_mode: | \`:vibration_mode:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :mobile_phone_off: | \`:mobile_phone_off:\` | | | [top](#table-of-contents) |
+    | [top](#symbols) | :record_button: | \`:record_button:\` | :eject_button: | \`:eject_button:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :cinema: | \`:cinema:\` | :low_brightness: | \`:low_brightness:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :high_brightness: | \`:high_brightness:\` | :signal_strength: | \`:signal_strength:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :vibration_mode: | \`:vibration_mode:\` | :mobile_phone_off: | \`:mobile_phone_off:\` | [top](#table-of-contents) |
+
+    #### Gender
+
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#symbols) | :female_sign: | \`:female_sign:\` | :male_sign: | \`:male_sign:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :transgender_symbol: | \`:transgender_symbol:\` | | | [top](#table-of-contents) |
+
+    #### Math
+
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#symbols) | :heavy_multiplication_x: | \`:heavy_multiplication_x:\` | :heavy_plus_sign: | \`:heavy_plus_sign:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :heavy_minus_sign: | \`:heavy_minus_sign:\` | :heavy_division_sign: | \`:heavy_division_sign:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :infinity: | \`:infinity:\` | | | [top](#table-of-contents) |
+
+    #### Punctuation
+
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#symbols) | :bangbang: | \`:bangbang:\` | :interrobang: | \`:interrobang:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :question: | \`:question:\` | :grey_question: | \`:grey_question:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :grey_exclamation: | \`:grey_exclamation:\` | :exclamation: | \`:exclamation:\` <br /> \`:heavy_exclamation_mark:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :wavy_dash: | \`:wavy_dash:\` | | | [top](#table-of-contents) |
+
+    #### Currency
+
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#symbols) | :currency_exchange: | \`:currency_exchange:\` | :heavy_dollar_sign: | \`:heavy_dollar_sign:\` | [top](#table-of-contents) |
 
     #### Other Symbol
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#symbols) | :recycle: | \`:recycle:\` | :fleur_de_lis: | \`:fleur_de_lis:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :trident: | \`:trident:\` | :name_badge: | \`:name_badge:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :beginner: | \`:beginner:\` | :o: | \`:o:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :white_check_mark: | \`:white_check_mark:\` | :ballot_box_with_check: | \`:ballot_box_with_check:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :heavy_check_mark: | \`:heavy_check_mark:\` | :heavy_multiplication_x: | \`:heavy_multiplication_x:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :medical_symbol: | \`:medical_symbol:\` | :recycle: | \`:recycle:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :fleur_de_lis: | \`:fleur_de_lis:\` | :trident: | \`:trident:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :name_badge: | \`:name_badge:\` | :beginner: | \`:beginner:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :o: | \`:o:\` | :white_check_mark: | \`:white_check_mark:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :ballot_box_with_check: | \`:ballot_box_with_check:\` | :heavy_check_mark: | \`:heavy_check_mark:\` | [top](#table-of-contents) |
     | [top](#symbols) | :x: | \`:x:\` | :negative_squared_cross_mark: | \`:negative_squared_cross_mark:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :heavy_plus_sign: | \`:heavy_plus_sign:\` | :heavy_minus_sign: | \`:heavy_minus_sign:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :heavy_division_sign: | \`:heavy_division_sign:\` | :curly_loop: | \`:curly_loop:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :loop: | \`:loop:\` | :part_alternation_mark: | \`:part_alternation_mark:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :eight_spoked_asterisk: | \`:eight_spoked_asterisk:\` | :eight_pointed_black_star: | \`:eight_pointed_black_star:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :sparkle: | \`:sparkle:\` | :bangbang: | \`:bangbang:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :interrobang: | \`:interrobang:\` | :question: | \`:question:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :grey_question: | \`:grey_question:\` | :grey_exclamation: | \`:grey_exclamation:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :exclamation: | \`:exclamation:\` <br /> \`:heavy_exclamation_mark:\` | :wavy_dash: | \`:wavy_dash:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :curly_loop: | \`:curly_loop:\` | :loop: | \`:loop:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :part_alternation_mark: | \`:part_alternation_mark:\` | :eight_spoked_asterisk: | \`:eight_spoked_asterisk:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :eight_pointed_black_star: | \`:eight_pointed_black_star:\` | :sparkle: | \`:sparkle:\` | [top](#table-of-contents) |
     | [top](#symbols) | :copyright: | \`:copyright:\` | :registered: | \`:registered:\` | [top](#table-of-contents) |
     | [top](#symbols) | :tm: | \`:tm:\` | | | [top](#table-of-contents) |
 
@@ -1197,8 +1404,14 @@ test("emoji-cheat-sheet", async () => {
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#symbols) | :red_circle: | \`:red_circle:\` | :large_blue_circle: | \`:large_blue_circle:\` | [top](#table-of-contents) |
-    | [top](#symbols) | :black_circle: | \`:black_circle:\` | :white_circle: | \`:white_circle:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :red_circle: | \`:red_circle:\` | :orange_circle: | \`:orange_circle:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :yellow_circle: | \`:yellow_circle:\` | :green_circle: | \`:green_circle:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :large_blue_circle: | \`:large_blue_circle:\` | :purple_circle: | \`:purple_circle:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :brown_circle: | \`:brown_circle:\` | :black_circle: | \`:black_circle:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :white_circle: | \`:white_circle:\` | :red_square: | \`:red_square:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :orange_square: | \`:orange_square:\` | :yellow_square: | \`:yellow_square:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :green_square: | \`:green_square:\` | :blue_square: | \`:blue_square:\` | [top](#table-of-contents) |
+    | [top](#symbols) | :purple_square: | \`:purple_square:\` | :brown_square: | \`:brown_square:\` | [top](#table-of-contents) |
     | [top](#symbols) | :black_large_square: | \`:black_large_square:\` | :white_large_square: | \`:white_large_square:\` | [top](#table-of-contents) |
     | [top](#symbols) | :black_medium_square: | \`:black_medium_square:\` | :white_medium_square: | \`:white_medium_square:\` | [top](#table-of-contents) |
     | [top](#symbols) | :black_medium_small_square: | \`:black_medium_small_square:\` | :white_medium_small_square: | \`:white_medium_small_square:\` | [top](#table-of-contents) |
@@ -1213,6 +1426,7 @@ test("emoji-cheat-sheet", async () => {
 
     - [Flag](#flag)
     - [Country Flag](#country-flag)
+    - [Subdivision Flag](#subdivision-flag)
 
     #### Flag
 
@@ -1221,28 +1435,30 @@ test("emoji-cheat-sheet", async () => {
     | [top](#flags) | :checkered_flag: | \`:checkered_flag:\` | :triangular_flag_on_post: | \`:triangular_flag_on_post:\` | [top](#table-of-contents) |
     | [top](#flags) | :crossed_flags: | \`:crossed_flags:\` | :black_flag: | \`:black_flag:\` | [top](#table-of-contents) |
     | [top](#flags) | :white_flag: | \`:white_flag:\` | :rainbow_flag: | \`:rainbow_flag:\` | [top](#table-of-contents) |
+    | [top](#flags) | :transgender_flag: | \`:transgender_flag:\` | :pirate_flag: | \`:pirate_flag:\` | [top](#table-of-contents) |
 
     #### Country Flag
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#flags) | :andorra: | \`:andorra:\` | :united_arab_emirates: | \`:united_arab_emirates:\` | [top](#table-of-contents) |
-    | [top](#flags) | :afghanistan: | \`:afghanistan:\` | :antigua_barbuda: | \`:antigua_barbuda:\` | [top](#table-of-contents) |
-    | [top](#flags) | :anguilla: | \`:anguilla:\` | :albania: | \`:albania:\` | [top](#table-of-contents) |
-    | [top](#flags) | :armenia: | \`:armenia:\` | :angola: | \`:angola:\` | [top](#table-of-contents) |
-    | [top](#flags) | :antarctica: | \`:antarctica:\` | :argentina: | \`:argentina:\` | [top](#table-of-contents) |
-    | [top](#flags) | :american_samoa: | \`:american_samoa:\` | :austria: | \`:austria:\` | [top](#table-of-contents) |
-    | [top](#flags) | :australia: | \`:australia:\` | :aruba: | \`:aruba:\` | [top](#table-of-contents) |
-    | [top](#flags) | :aland_islands: | \`:aland_islands:\` | :azerbaijan: | \`:azerbaijan:\` | [top](#table-of-contents) |
-    | [top](#flags) | :bosnia_herzegovina: | \`:bosnia_herzegovina:\` | :barbados: | \`:barbados:\` | [top](#table-of-contents) |
-    | [top](#flags) | :bangladesh: | \`:bangladesh:\` | :belgium: | \`:belgium:\` | [top](#table-of-contents) |
-    | [top](#flags) | :burkina_faso: | \`:burkina_faso:\` | :bulgaria: | \`:bulgaria:\` | [top](#table-of-contents) |
-    | [top](#flags) | :bahrain: | \`:bahrain:\` | :burundi: | \`:burundi:\` | [top](#table-of-contents) |
-    | [top](#flags) | :benin: | \`:benin:\` | :st_barthelemy: | \`:st_barthelemy:\` | [top](#table-of-contents) |
-    | [top](#flags) | :bermuda: | \`:bermuda:\` | :brunei: | \`:brunei:\` | [top](#table-of-contents) |
-    | [top](#flags) | :bolivia: | \`:bolivia:\` | :caribbean_netherlands: | \`:caribbean_netherlands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :brazil: | \`:brazil:\` | :bahamas: | \`:bahamas:\` | [top](#table-of-contents) |
-    | [top](#flags) | :bhutan: | \`:bhutan:\` | :botswana: | \`:botswana:\` | [top](#table-of-contents) |
+    | [top](#flags) | :ascension_island: | \`:ascension_island:\` | :andorra: | \`:andorra:\` | [top](#table-of-contents) |
+    | [top](#flags) | :united_arab_emirates: | \`:united_arab_emirates:\` | :afghanistan: | \`:afghanistan:\` | [top](#table-of-contents) |
+    | [top](#flags) | :antigua_barbuda: | \`:antigua_barbuda:\` | :anguilla: | \`:anguilla:\` | [top](#table-of-contents) |
+    | [top](#flags) | :albania: | \`:albania:\` | :armenia: | \`:armenia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :angola: | \`:angola:\` | :antarctica: | \`:antarctica:\` | [top](#table-of-contents) |
+    | [top](#flags) | :argentina: | \`:argentina:\` | :american_samoa: | \`:american_samoa:\` | [top](#table-of-contents) |
+    | [top](#flags) | :austria: | \`:austria:\` | :australia: | \`:australia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :aruba: | \`:aruba:\` | :aland_islands: | \`:aland_islands:\` | [top](#table-of-contents) |
+    | [top](#flags) | :azerbaijan: | \`:azerbaijan:\` | :bosnia_herzegovina: | \`:bosnia_herzegovina:\` | [top](#table-of-contents) |
+    | [top](#flags) | :barbados: | \`:barbados:\` | :bangladesh: | \`:bangladesh:\` | [top](#table-of-contents) |
+    | [top](#flags) | :belgium: | \`:belgium:\` | :burkina_faso: | \`:burkina_faso:\` | [top](#table-of-contents) |
+    | [top](#flags) | :bulgaria: | \`:bulgaria:\` | :bahrain: | \`:bahrain:\` | [top](#table-of-contents) |
+    | [top](#flags) | :burundi: | \`:burundi:\` | :benin: | \`:benin:\` | [top](#table-of-contents) |
+    | [top](#flags) | :st_barthelemy: | \`:st_barthelemy:\` | :bermuda: | \`:bermuda:\` | [top](#table-of-contents) |
+    | [top](#flags) | :brunei: | \`:brunei:\` | :bolivia: | \`:bolivia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :caribbean_netherlands: | \`:caribbean_netherlands:\` | :brazil: | \`:brazil:\` | [top](#table-of-contents) |
+    | [top](#flags) | :bahamas: | \`:bahamas:\` | :bhutan: | \`:bhutan:\` | [top](#table-of-contents) |
+    | [top](#flags) | :bouvet_island: | \`:bouvet_island:\` | :botswana: | \`:botswana:\` | [top](#table-of-contents) |
     | [top](#flags) | :belarus: | \`:belarus:\` | :belize: | \`:belize:\` | [top](#table-of-contents) |
     | [top](#flags) | :canada: | \`:canada:\` | :cocos_islands: | \`:cocos_islands:\` | [top](#table-of-contents) |
     | [top](#flags) | :congo_kinshasa: | \`:congo_kinshasa:\` | :central_african_republic: | \`:central_african_republic:\` | [top](#table-of-contents) |
@@ -1250,30 +1466,32 @@ test("emoji-cheat-sheet", async () => {
     | [top](#flags) | :cote_divoire: | \`:cote_divoire:\` | :cook_islands: | \`:cook_islands:\` | [top](#table-of-contents) |
     | [top](#flags) | :chile: | \`:chile:\` | :cameroon: | \`:cameroon:\` | [top](#table-of-contents) |
     | [top](#flags) | :cn: | \`:cn:\` | :colombia: | \`:colombia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :costa_rica: | \`:costa_rica:\` | :cuba: | \`:cuba:\` | [top](#table-of-contents) |
-    | [top](#flags) | :cape_verde: | \`:cape_verde:\` | :curacao: | \`:curacao:\` | [top](#table-of-contents) |
-    | [top](#flags) | :christmas_island: | \`:christmas_island:\` | :cyprus: | \`:cyprus:\` | [top](#table-of-contents) |
-    | [top](#flags) | :czech_republic: | \`:czech_republic:\` | :de: | \`:de:\` | [top](#table-of-contents) |
+    | [top](#flags) | :clipperton_island: | \`:clipperton_island:\` | :costa_rica: | \`:costa_rica:\` | [top](#table-of-contents) |
+    | [top](#flags) | :cuba: | \`:cuba:\` | :cape_verde: | \`:cape_verde:\` | [top](#table-of-contents) |
+    | [top](#flags) | :curacao: | \`:curacao:\` | :christmas_island: | \`:christmas_island:\` | [top](#table-of-contents) |
+    | [top](#flags) | :cyprus: | \`:cyprus:\` | :czech_republic: | \`:czech_republic:\` | [top](#table-of-contents) |
+    | [top](#flags) | :de: | \`:de:\` | :diego_garcia: | \`:diego_garcia:\` | [top](#table-of-contents) |
     | [top](#flags) | :djibouti: | \`:djibouti:\` | :denmark: | \`:denmark:\` | [top](#table-of-contents) |
     | [top](#flags) | :dominica: | \`:dominica:\` | :dominican_republic: | \`:dominican_republic:\` | [top](#table-of-contents) |
-    | [top](#flags) | :algeria: | \`:algeria:\` | :ecuador: | \`:ecuador:\` | [top](#table-of-contents) |
-    | [top](#flags) | :estonia: | \`:estonia:\` | :egypt: | \`:egypt:\` | [top](#table-of-contents) |
-    | [top](#flags) | :western_sahara: | \`:western_sahara:\` | :eritrea: | \`:eritrea:\` | [top](#table-of-contents) |
-    | [top](#flags) | :es: | \`:es:\` | :ethiopia: | \`:ethiopia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :eu: | \`:eu:\` <br /> \`:european_union:\` | :finland: | \`:finland:\` | [top](#table-of-contents) |
-    | [top](#flags) | :fiji: | \`:fiji:\` | :falkland_islands: | \`:falkland_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :micronesia: | \`:micronesia:\` | :faroe_islands: | \`:faroe_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :fr: | \`:fr:\` | :gabon: | \`:gabon:\` | [top](#table-of-contents) |
-    | [top](#flags) | :gb: | \`:gb:\` <br /> \`:uk:\` | :grenada: | \`:grenada:\` | [top](#table-of-contents) |
-    | [top](#flags) | :georgia: | \`:georgia:\` | :french_guiana: | \`:french_guiana:\` | [top](#table-of-contents) |
-    | [top](#flags) | :guernsey: | \`:guernsey:\` | :ghana: | \`:ghana:\` | [top](#table-of-contents) |
-    | [top](#flags) | :gibraltar: | \`:gibraltar:\` | :greenland: | \`:greenland:\` | [top](#table-of-contents) |
-    | [top](#flags) | :gambia: | \`:gambia:\` | :guinea: | \`:guinea:\` | [top](#table-of-contents) |
-    | [top](#flags) | :guadeloupe: | \`:guadeloupe:\` | :equatorial_guinea: | \`:equatorial_guinea:\` | [top](#table-of-contents) |
-    | [top](#flags) | :greece: | \`:greece:\` | :south_georgia_south_sandwich_islands: | \`:south_georgia_south_sandwich_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :guatemala: | \`:guatemala:\` | :guam: | \`:guam:\` | [top](#table-of-contents) |
-    | [top](#flags) | :guinea_bissau: | \`:guinea_bissau:\` | :guyana: | \`:guyana:\` | [top](#table-of-contents) |
-    | [top](#flags) | :hong_kong: | \`:hong_kong:\` | :honduras: | \`:honduras:\` | [top](#table-of-contents) |
+    | [top](#flags) | :algeria: | \`:algeria:\` | :ceuta_melilla: | \`:ceuta_melilla:\` | [top](#table-of-contents) |
+    | [top](#flags) | :ecuador: | \`:ecuador:\` | :estonia: | \`:estonia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :egypt: | \`:egypt:\` | :western_sahara: | \`:western_sahara:\` | [top](#table-of-contents) |
+    | [top](#flags) | :eritrea: | \`:eritrea:\` | :es: | \`:es:\` | [top](#table-of-contents) |
+    | [top](#flags) | :ethiopia: | \`:ethiopia:\` | :eu: | \`:eu:\` <br /> \`:european_union:\` | [top](#table-of-contents) |
+    | [top](#flags) | :finland: | \`:finland:\` | :fiji: | \`:fiji:\` | [top](#table-of-contents) |
+    | [top](#flags) | :falkland_islands: | \`:falkland_islands:\` | :micronesia: | \`:micronesia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :faroe_islands: | \`:faroe_islands:\` | :fr: | \`:fr:\` | [top](#table-of-contents) |
+    | [top](#flags) | :gabon: | \`:gabon:\` | :gb: | \`:gb:\` <br /> \`:uk:\` | [top](#table-of-contents) |
+    | [top](#flags) | :grenada: | \`:grenada:\` | :georgia: | \`:georgia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :french_guiana: | \`:french_guiana:\` | :guernsey: | \`:guernsey:\` | [top](#table-of-contents) |
+    | [top](#flags) | :ghana: | \`:ghana:\` | :gibraltar: | \`:gibraltar:\` | [top](#table-of-contents) |
+    | [top](#flags) | :greenland: | \`:greenland:\` | :gambia: | \`:gambia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :guinea: | \`:guinea:\` | :guadeloupe: | \`:guadeloupe:\` | [top](#table-of-contents) |
+    | [top](#flags) | :equatorial_guinea: | \`:equatorial_guinea:\` | :greece: | \`:greece:\` | [top](#table-of-contents) |
+    | [top](#flags) | :south_georgia_south_sandwich_islands: | \`:south_georgia_south_sandwich_islands:\` | :guatemala: | \`:guatemala:\` | [top](#table-of-contents) |
+    | [top](#flags) | :guam: | \`:guam:\` | :guinea_bissau: | \`:guinea_bissau:\` | [top](#table-of-contents) |
+    | [top](#flags) | :guyana: | \`:guyana:\` | :hong_kong: | \`:hong_kong:\` | [top](#table-of-contents) |
+    | [top](#flags) | :heard_mcdonald_islands: | \`:heard_mcdonald_islands:\` | :honduras: | \`:honduras:\` | [top](#table-of-contents) |
     | [top](#flags) | :croatia: | \`:croatia:\` | :haiti: | \`:haiti:\` | [top](#table-of-contents) |
     | [top](#flags) | :hungary: | \`:hungary:\` | :canary_islands: | \`:canary_islands:\` | [top](#table-of-contents) |
     | [top](#flags) | :indonesia: | \`:indonesia:\` | :ireland: | \`:ireland:\` | [top](#table-of-contents) |
@@ -1296,75 +1514,85 @@ test("emoji-cheat-sheet", async () => {
     | [top](#flags) | :latvia: | \`:latvia:\` | :libya: | \`:libya:\` | [top](#table-of-contents) |
     | [top](#flags) | :morocco: | \`:morocco:\` | :monaco: | \`:monaco:\` | [top](#table-of-contents) |
     | [top](#flags) | :moldova: | \`:moldova:\` | :montenegro: | \`:montenegro:\` | [top](#table-of-contents) |
-    | [top](#flags) | :madagascar: | \`:madagascar:\` | :marshall_islands: | \`:marshall_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :macedonia: | \`:macedonia:\` | :mali: | \`:mali:\` | [top](#table-of-contents) |
-    | [top](#flags) | :myanmar: | \`:myanmar:\` | :mongolia: | \`:mongolia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :macau: | \`:macau:\` | :northern_mariana_islands: | \`:northern_mariana_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :martinique: | \`:martinique:\` | :mauritania: | \`:mauritania:\` | [top](#table-of-contents) |
-    | [top](#flags) | :montserrat: | \`:montserrat:\` | :malta: | \`:malta:\` | [top](#table-of-contents) |
-    | [top](#flags) | :mauritius: | \`:mauritius:\` | :maldives: | \`:maldives:\` | [top](#table-of-contents) |
-    | [top](#flags) | :malawi: | \`:malawi:\` | :mexico: | \`:mexico:\` | [top](#table-of-contents) |
-    | [top](#flags) | :malaysia: | \`:malaysia:\` | :mozambique: | \`:mozambique:\` | [top](#table-of-contents) |
-    | [top](#flags) | :namibia: | \`:namibia:\` | :new_caledonia: | \`:new_caledonia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :niger: | \`:niger:\` | :norfolk_island: | \`:norfolk_island:\` | [top](#table-of-contents) |
-    | [top](#flags) | :nigeria: | \`:nigeria:\` | :nicaragua: | \`:nicaragua:\` | [top](#table-of-contents) |
-    | [top](#flags) | :netherlands: | \`:netherlands:\` | :norway: | \`:norway:\` | [top](#table-of-contents) |
-    | [top](#flags) | :nepal: | \`:nepal:\` | :nauru: | \`:nauru:\` | [top](#table-of-contents) |
-    | [top](#flags) | :niue: | \`:niue:\` | :new_zealand: | \`:new_zealand:\` | [top](#table-of-contents) |
-    | [top](#flags) | :oman: | \`:oman:\` | :panama: | \`:panama:\` | [top](#table-of-contents) |
-    | [top](#flags) | :peru: | \`:peru:\` | :french_polynesia: | \`:french_polynesia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :papua_new_guinea: | \`:papua_new_guinea:\` | :philippines: | \`:philippines:\` | [top](#table-of-contents) |
-    | [top](#flags) | :pakistan: | \`:pakistan:\` | :poland: | \`:poland:\` | [top](#table-of-contents) |
-    | [top](#flags) | :st_pierre_miquelon: | \`:st_pierre_miquelon:\` | :pitcairn_islands: | \`:pitcairn_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :puerto_rico: | \`:puerto_rico:\` | :palestinian_territories: | \`:palestinian_territories:\` | [top](#table-of-contents) |
-    | [top](#flags) | :portugal: | \`:portugal:\` | :palau: | \`:palau:\` | [top](#table-of-contents) |
-    | [top](#flags) | :paraguay: | \`:paraguay:\` | :qatar: | \`:qatar:\` | [top](#table-of-contents) |
-    | [top](#flags) | :reunion: | \`:reunion:\` | :romania: | \`:romania:\` | [top](#table-of-contents) |
-    | [top](#flags) | :serbia: | \`:serbia:\` | :ru: | \`:ru:\` | [top](#table-of-contents) |
-    | [top](#flags) | :rwanda: | \`:rwanda:\` | :saudi_arabia: | \`:saudi_arabia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :solomon_islands: | \`:solomon_islands:\` | :seychelles: | \`:seychelles:\` | [top](#table-of-contents) |
-    | [top](#flags) | :sudan: | \`:sudan:\` | :sweden: | \`:sweden:\` | [top](#table-of-contents) |
-    | [top](#flags) | :singapore: | \`:singapore:\` | :st_helena: | \`:st_helena:\` | [top](#table-of-contents) |
-    | [top](#flags) | :slovenia: | \`:slovenia:\` | :slovakia: | \`:slovakia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :st_martin: | \`:st_martin:\` | :madagascar: | \`:madagascar:\` | [top](#table-of-contents) |
+    | [top](#flags) | :marshall_islands: | \`:marshall_islands:\` | :macedonia: | \`:macedonia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :mali: | \`:mali:\` | :myanmar: | \`:myanmar:\` | [top](#table-of-contents) |
+    | [top](#flags) | :mongolia: | \`:mongolia:\` | :macau: | \`:macau:\` | [top](#table-of-contents) |
+    | [top](#flags) | :northern_mariana_islands: | \`:northern_mariana_islands:\` | :martinique: | \`:martinique:\` | [top](#table-of-contents) |
+    | [top](#flags) | :mauritania: | \`:mauritania:\` | :montserrat: | \`:montserrat:\` | [top](#table-of-contents) |
+    | [top](#flags) | :malta: | \`:malta:\` | :mauritius: | \`:mauritius:\` | [top](#table-of-contents) |
+    | [top](#flags) | :maldives: | \`:maldives:\` | :malawi: | \`:malawi:\` | [top](#table-of-contents) |
+    | [top](#flags) | :mexico: | \`:mexico:\` | :malaysia: | \`:malaysia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :mozambique: | \`:mozambique:\` | :namibia: | \`:namibia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :new_caledonia: | \`:new_caledonia:\` | :niger: | \`:niger:\` | [top](#table-of-contents) |
+    | [top](#flags) | :norfolk_island: | \`:norfolk_island:\` | :nigeria: | \`:nigeria:\` | [top](#table-of-contents) |
+    | [top](#flags) | :nicaragua: | \`:nicaragua:\` | :netherlands: | \`:netherlands:\` | [top](#table-of-contents) |
+    | [top](#flags) | :norway: | \`:norway:\` | :nepal: | \`:nepal:\` | [top](#table-of-contents) |
+    | [top](#flags) | :nauru: | \`:nauru:\` | :niue: | \`:niue:\` | [top](#table-of-contents) |
+    | [top](#flags) | :new_zealand: | \`:new_zealand:\` | :oman: | \`:oman:\` | [top](#table-of-contents) |
+    | [top](#flags) | :panama: | \`:panama:\` | :peru: | \`:peru:\` | [top](#table-of-contents) |
+    | [top](#flags) | :french_polynesia: | \`:french_polynesia:\` | :papua_new_guinea: | \`:papua_new_guinea:\` | [top](#table-of-contents) |
+    | [top](#flags) | :philippines: | \`:philippines:\` | :pakistan: | \`:pakistan:\` | [top](#table-of-contents) |
+    | [top](#flags) | :poland: | \`:poland:\` | :st_pierre_miquelon: | \`:st_pierre_miquelon:\` | [top](#table-of-contents) |
+    | [top](#flags) | :pitcairn_islands: | \`:pitcairn_islands:\` | :puerto_rico: | \`:puerto_rico:\` | [top](#table-of-contents) |
+    | [top](#flags) | :palestinian_territories: | \`:palestinian_territories:\` | :portugal: | \`:portugal:\` | [top](#table-of-contents) |
+    | [top](#flags) | :palau: | \`:palau:\` | :paraguay: | \`:paraguay:\` | [top](#table-of-contents) |
+    | [top](#flags) | :qatar: | \`:qatar:\` | :reunion: | \`:reunion:\` | [top](#table-of-contents) |
+    | [top](#flags) | :romania: | \`:romania:\` | :serbia: | \`:serbia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :ru: | \`:ru:\` | :rwanda: | \`:rwanda:\` | [top](#table-of-contents) |
+    | [top](#flags) | :saudi_arabia: | \`:saudi_arabia:\` | :solomon_islands: | \`:solomon_islands:\` | [top](#table-of-contents) |
+    | [top](#flags) | :seychelles: | \`:seychelles:\` | :sudan: | \`:sudan:\` | [top](#table-of-contents) |
+    | [top](#flags) | :sweden: | \`:sweden:\` | :singapore: | \`:singapore:\` | [top](#table-of-contents) |
+    | [top](#flags) | :st_helena: | \`:st_helena:\` | :slovenia: | \`:slovenia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :svalbard_jan_mayen: | \`:svalbard_jan_mayen:\` | :slovakia: | \`:slovakia:\` | [top](#table-of-contents) |
     | [top](#flags) | :sierra_leone: | \`:sierra_leone:\` | :san_marino: | \`:san_marino:\` | [top](#table-of-contents) |
     | [top](#flags) | :senegal: | \`:senegal:\` | :somalia: | \`:somalia:\` | [top](#table-of-contents) |
     | [top](#flags) | :suriname: | \`:suriname:\` | :south_sudan: | \`:south_sudan:\` | [top](#table-of-contents) |
     | [top](#flags) | :sao_tome_principe: | \`:sao_tome_principe:\` | :el_salvador: | \`:el_salvador:\` | [top](#table-of-contents) |
     | [top](#flags) | :sint_maarten: | \`:sint_maarten:\` | :syria: | \`:syria:\` | [top](#table-of-contents) |
-    | [top](#flags) | :swaziland: | \`:swaziland:\` | :turks_caicos_islands: | \`:turks_caicos_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :chad: | \`:chad:\` | :french_southern_territories: | \`:french_southern_territories:\` | [top](#table-of-contents) |
-    | [top](#flags) | :togo: | \`:togo:\` | :thailand: | \`:thailand:\` | [top](#table-of-contents) |
-    | [top](#flags) | :tajikistan: | \`:tajikistan:\` | :tokelau: | \`:tokelau:\` | [top](#table-of-contents) |
-    | [top](#flags) | :timor_leste: | \`:timor_leste:\` | :turkmenistan: | \`:turkmenistan:\` | [top](#table-of-contents) |
-    | [top](#flags) | :tunisia: | \`:tunisia:\` | :tonga: | \`:tonga:\` | [top](#table-of-contents) |
-    | [top](#flags) | :tr: | \`:tr:\` | :trinidad_tobago: | \`:trinidad_tobago:\` | [top](#table-of-contents) |
-    | [top](#flags) | :tuvalu: | \`:tuvalu:\` | :taiwan: | \`:taiwan:\` | [top](#table-of-contents) |
-    | [top](#flags) | :tanzania: | \`:tanzania:\` | :ukraine: | \`:ukraine:\` | [top](#table-of-contents) |
-    | [top](#flags) | :uganda: | \`:uganda:\` | :us: | \`:us:\` | [top](#table-of-contents) |
-    | [top](#flags) | :uruguay: | \`:uruguay:\` | :uzbekistan: | \`:uzbekistan:\` | [top](#table-of-contents) |
-    | [top](#flags) | :vatican_city: | \`:vatican_city:\` | :st_vincent_grenadines: | \`:st_vincent_grenadines:\` | [top](#table-of-contents) |
-    | [top](#flags) | :venezuela: | \`:venezuela:\` | :british_virgin_islands: | \`:british_virgin_islands:\` | [top](#table-of-contents) |
-    | [top](#flags) | :us_virgin_islands: | \`:us_virgin_islands:\` | :vietnam: | \`:vietnam:\` | [top](#table-of-contents) |
-    | [top](#flags) | :vanuatu: | \`:vanuatu:\` | :wallis_futuna: | \`:wallis_futuna:\` | [top](#table-of-contents) |
-    | [top](#flags) | :samoa: | \`:samoa:\` | :kosovo: | \`:kosovo:\` | [top](#table-of-contents) |
-    | [top](#flags) | :yemen: | \`:yemen:\` | :mayotte: | \`:mayotte:\` | [top](#table-of-contents) |
-    | [top](#flags) | :south_africa: | \`:south_africa:\` | :zambia: | \`:zambia:\` | [top](#table-of-contents) |
-    | [top](#flags) | :zimbabwe: | \`:zimbabwe:\` | | | [top](#table-of-contents) |
+    | [top](#flags) | :swaziland: | \`:swaziland:\` | :tristan_da_cunha: | \`:tristan_da_cunha:\` | [top](#table-of-contents) |
+    | [top](#flags) | :turks_caicos_islands: | \`:turks_caicos_islands:\` | :chad: | \`:chad:\` | [top](#table-of-contents) |
+    | [top](#flags) | :french_southern_territories: | \`:french_southern_territories:\` | :togo: | \`:togo:\` | [top](#table-of-contents) |
+    | [top](#flags) | :thailand: | \`:thailand:\` | :tajikistan: | \`:tajikistan:\` | [top](#table-of-contents) |
+    | [top](#flags) | :tokelau: | \`:tokelau:\` | :timor_leste: | \`:timor_leste:\` | [top](#table-of-contents) |
+    | [top](#flags) | :turkmenistan: | \`:turkmenistan:\` | :tunisia: | \`:tunisia:\` | [top](#table-of-contents) |
+    | [top](#flags) | :tonga: | \`:tonga:\` | :tr: | \`:tr:\` | [top](#table-of-contents) |
+    | [top](#flags) | :trinidad_tobago: | \`:trinidad_tobago:\` | :tuvalu: | \`:tuvalu:\` | [top](#table-of-contents) |
+    | [top](#flags) | :taiwan: | \`:taiwan:\` | :tanzania: | \`:tanzania:\` | [top](#table-of-contents) |
+    | [top](#flags) | :ukraine: | \`:ukraine:\` | :uganda: | \`:uganda:\` | [top](#table-of-contents) |
+    | [top](#flags) | :us_outlying_islands: | \`:us_outlying_islands:\` | :united_nations: | \`:united_nations:\` | [top](#table-of-contents) |
+    | [top](#flags) | :us: | \`:us:\` | :uruguay: | \`:uruguay:\` | [top](#table-of-contents) |
+    | [top](#flags) | :uzbekistan: | \`:uzbekistan:\` | :vatican_city: | \`:vatican_city:\` | [top](#table-of-contents) |
+    | [top](#flags) | :st_vincent_grenadines: | \`:st_vincent_grenadines:\` | :venezuela: | \`:venezuela:\` | [top](#table-of-contents) |
+    | [top](#flags) | :british_virgin_islands: | \`:british_virgin_islands:\` | :us_virgin_islands: | \`:us_virgin_islands:\` | [top](#table-of-contents) |
+    | [top](#flags) | :vietnam: | \`:vietnam:\` | :vanuatu: | \`:vanuatu:\` | [top](#table-of-contents) |
+    | [top](#flags) | :wallis_futuna: | \`:wallis_futuna:\` | :samoa: | \`:samoa:\` | [top](#table-of-contents) |
+    | [top](#flags) | :kosovo: | \`:kosovo:\` | :yemen: | \`:yemen:\` | [top](#table-of-contents) |
+    | [top](#flags) | :mayotte: | \`:mayotte:\` | :south_africa: | \`:south_africa:\` | [top](#table-of-contents) |
+    | [top](#flags) | :zambia: | \`:zambia:\` | :zimbabwe: | \`:zimbabwe:\` | [top](#table-of-contents) |
+
+    #### Subdivision Flag
+
+    | | ico | shortcode | ico | shortcode | |
+    | - | :-: | - | :-: | - | - |
+    | [top](#flags) | :england: | \`:england:\` | :scotland: | \`:scotland:\` | [top](#table-of-contents) |
+    | [top](#flags) | :wales: | \`:wales:\` | | | [top](#table-of-contents) |
 
     ### GitHub Custom Emoji
 
     | | ico | shortcode | ico | shortcode | |
     | - | :-: | - | :-: | - | - |
-    | [top](#github-custom-emoji) | :atom: | \`:atom:\` | :basecamp: | \`:basecamp:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :basecampy: | \`:basecampy:\` | :bowtie: | \`:bowtie:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :accessibility: | \`:accessibility:\` | :atom: | \`:atom:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :basecamp: | \`:basecamp:\` | :basecampy: | \`:basecampy:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :bowtie: | \`:bowtie:\` | :dependabot: | \`:dependabot:\` | [top](#table-of-contents) |
     | [top](#github-custom-emoji) | :electron: | \`:electron:\` | :feelsgood: | \`:feelsgood:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :finnadie: | \`:finnadie:\` | :goberserk: | \`:goberserk:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :godmode: | \`:godmode:\` | :hurtrealbad: | \`:hurtrealbad:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :neckbeard: | \`:neckbeard:\` | :octocat: | \`:octocat:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :rage1: | \`:rage1:\` | :rage2: | \`:rage2:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :rage3: | \`:rage3:\` | :rage4: | \`:rage4:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :shipit: | \`:shipit:\` <br /> \`:squirrel:\` | :suspect: | \`:suspect:\` | [top](#table-of-contents) |
-    | [top](#github-custom-emoji) | :trollface: | \`:trollface:\` | | | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :finnadie: | \`:finnadie:\` | :fishsticks: | \`:fishsticks:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :goberserk: | \`:goberserk:\` | :godmode: | \`:godmode:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :hurtrealbad: | \`:hurtrealbad:\` | :neckbeard: | \`:neckbeard:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :octocat: | \`:octocat:\` | :rage1: | \`:rage1:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :rage2: | \`:rage2:\` | :rage3: | \`:rage3:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :rage4: | \`:rage4:\` | :shipit: | \`:shipit:\` | [top](#table-of-contents) |
+    | [top](#github-custom-emoji) | :suspect: | \`:suspect:\` | :trollface: | \`:trollface:\` | [top](#table-of-contents) |
     "
   `);
 });
