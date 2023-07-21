@@ -16,11 +16,9 @@
     "generate": "node ./scripts/generate.js > ./README.md"
   },
   "dependencies": {
-    "cheerio": "^0.22.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "@types/cheerio": "0.22.13",
     "@types/jest": "24.0.18",
     "@types/node": "12.7.4",
     "@types/request": "2.48.2",
