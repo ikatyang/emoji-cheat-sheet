@@ -1576,8 +1576,9 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#github-custom-emoji) | :atom: | `:atom:` | :basecamp: | `:basecamp:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :accessibility: | `:accessibility:` | :atom: | `:atom:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :basecamp: | `:basecamp:` | :basecampy: | `:basecampy:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :electron: | `:electron:` | :feelsgood: | `:feelsgood:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :fishsticks: | `:fishsticks:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :goberserk: | `:goberserk:` | :godmode: | `:godmode:` | [top](#table-of-contents) |
@@ -1586,3 +1587,4 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#github-custom-emoji) | :rage2: | `:rage2:` | :rage3: | `:rage3:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :rage4: | `:rage4:` | :shipit: | `:shipit:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :suspect: | `:suspect:` | :trollface: | `:trollface:` | [top](#table-of-contents) |
+
