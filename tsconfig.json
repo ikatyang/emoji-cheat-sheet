@@ -1,12 +1,12 @@
 {
+  "include": ["scripts/**/*"],
   "compilerOptions": {
-    "allowJs": true,
-    "checkJs": true,
-    "moduleResolution": "node",
-    "noEmit": true,
-    "resolveJsonModule": true,
     "strict": true,
-    "target": "esnext"
-  },
-  "include": ["scripts/**/*.js"]
+    "target": "ES2021",
+    "lib": ["ES2021", "DOM"],
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
 }
