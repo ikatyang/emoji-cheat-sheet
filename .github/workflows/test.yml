@@ -1,24 +1,27 @@
-name: Test
-
 on:
-  - push
-  - pull_request
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
 
 jobs:
-  test:
-    name: Test
+  lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2-beta
-        with:
-          node-version: "16"
-
-      - name: Install Dependencies
-        run: yarn
-
-      - name: Test
-        run: yarn test --ci
+      - uses: actions/checkout@v3
+      - uses: ./.github/actions/setup
+      - run: pnpm run lint
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ./.github/actions/setup
+      - run: pnpm run check
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ./.github/actions/setup
+      - run: pnpm run test

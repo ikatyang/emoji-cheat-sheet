@@ -1,5 +1,6 @@
 {
   "name": "emoji-cheat-sheet",
+  "type": "module",
   "version": "0.0.0-dev",
   "private": true,
   "repository": "ikatyang/emoji-cheat-sheet",
@@ -11,25 +12,21 @@
   },
   "license": "MIT",
   "scripts": {
-    "lint": "tslint -p . --type-check",
-    "test": "jest",
-    "generate": "node ./scripts/generate.js > ./README.md"
-  },
-  "dependencies": {
-    "request": "^2.88.0"
+    "lint": "prettier --check .",
+    "check": "tsc --noEmit",
+    "test": "vitest",
+    "generate": "vite-node ./scripts/generate.ts -- run > ./README.md"
   },
   "devDependencies": {
-    "@types/jest": "24.0.18",
-    "@types/node": "12.7.4",
-    "@types/request": "2.48.2",
-    "jest": "24.9.0",
-    "jest-playback": "2.0.2",
-    "prettier": "1.17.0",
-    "tslint": "5.19.0",
-    "tslint-plugin-prettier": "2.0.1",
-    "typescript": "3.6.2"
+    "jest-playback": "4.0.0",
+    "prettier": "3.0.0",
+    "typescript": "5.1.6",
+    "vite": "4.4.6",
+    "vite-node": "0.33.0",
+    "vitest": "0.33.0"
   },
   "engines": {
-    "node": ">= 12"
-  }
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@8.6.6"
 }

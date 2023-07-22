@@ -1,0 +1,13 @@
+name: setup
+description: setup
+runs:
+  using: composite
+  steps:
+    - uses: pnpm/action-setup@v2
+    - uses: actions/setup-node@v3
+      with:
+        cache: pnpm
+        node-version: '18'
+        registry-url: 'https://registry.npmjs.org'
+    - run: pnpm install
+      shell: bash
