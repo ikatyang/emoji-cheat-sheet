@@ -2,16 +2,28 @@ name: Up to Date
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
 
 jobs:
   update:
     name: Update
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: ./.github/actions/setup
-      - run: pnpm run generate
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: "16"
+
+      - name: Install Dependencies
+        run: yarn
+
+      - name: Generate Cheat Sheet
+        run: yarn generate
 
       - name: Push New Cheat Sheet to Updated Branch
         run: |

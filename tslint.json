@@ -1,0 +1,6 @@
+{
+  "extends": ["tslint-plugin-prettier"],
+  "jsRules": {
+    "prettier": true
+  }
+}

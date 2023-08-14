@@ -1,10 +1,8 @@
-import { expect, test } from 'vitest'
-import setupPlayback from 'jest-playback'
-import { generate } from './generate.js'
+require("jest-playback").setup(__dirname);
 
-await setupPlayback()
+const generate = require("./generate");
 
-test('emoji-cheat-sheet', async () => {
+test("emoji-cheat-sheet", async () => {
   expect(await generate()).toMatchInlineSnapshot(`
     "# emoji-cheat-sheet
 
@@ -1596,5 +1594,5 @@ test('emoji-cheat-sheet', async () => {
     | [top](#github-custom-emoji) | :rage4: | \`:rage4:\` | :shipit: | \`:shipit:\` | [top](#table-of-contents) |
     | [top](#github-custom-emoji) | :suspect: | \`:suspect:\` | :trollface: | \`:trollface:\` | [top](#table-of-contents) |
     "
-  `)
-})
+  `);
+});

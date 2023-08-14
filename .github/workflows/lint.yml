@@ -1,12 +1,12 @@
-name: Test
+name: Lint
 
 on:
   - push
   - pull_request
 
 jobs:
-  test:
-    name: Test
+  lint:
+    name: Lint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -20,5 +20,5 @@ jobs:
       - name: Install Dependencies
         run: yarn
 
-      - name: Test
-        run: yarn test --ci
+      - name: Lint
+        run: yarn lint
