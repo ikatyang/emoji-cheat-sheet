@@ -1,0 +1,26 @@
+using UnityEngine;
+
+public class Tile : MonoBehaviour
+{
+    public int x;
+    public int z;
+    public Piece occupant;
+
+    Renderer rend;
+    public Material whiteMat;
+    public Material blackMat;
+
+    void Awake()
+    {
+        rend = GetComponent<Renderer>();
+    }
+
+    public void SetColor(bool isLight)
+    {
+        if (rend == null) rend = GetComponent<Renderer>();
+        if (isLight && whiteMat != null) rend.material = whiteMat;
+        else if (!isLight && blackMat != null) rend.material = blackMat;
+    }
+
+    public bool IsOccupied() => occupant != null;
+}
