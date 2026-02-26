@@ -2,17 +2,17 @@
 
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
-This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
+This cheat sheet is automatically generated from [README.md API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
 
 ## Table of Contents
 
-- [Smileys & Emotion](#smileys--emotion)
-- [People & Body](#people--body)
-- [Animals & Nature](#animals--nature)
-- [Food & Drink](#food--drink)
-- [Travel & Places](#travel--places)
-- [Activities](#activities)
-- [Objects](#objects)
+- [Smileys ](#smileys--emotion)
+- [People](#people--body)
+- [Animals](#animals--nature)
+- [](#food--drink)
+
+- [Activities ](#activities)
+- [Objects](#objects)2
 - [Symbols](#symbols)
 - [Flags](#flags)
 - [GitHub Custom Emoji](#github-custom-emoji)
